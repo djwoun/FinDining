@@ -1,0 +1,23 @@
+.container {
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 25px;
+}
+.filter {
+    span {
+        font-size: 1.75em;
+        display: block;
+        color: #ffffff;
+    }
+    select {
+        width: 100%;
+        background-color: #FFE8BC;//#FFC965;
+        font-family: "Bitter", sans-serif;
+        font-size: 1.25em;
+        padding: 5px;
+
+        // option:nth-child(odd) {
+        //     background-color: #FFE8BC;
+        // }
+    }
+}

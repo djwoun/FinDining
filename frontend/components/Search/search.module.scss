@@ -1,0 +1,27 @@
+.center {
+    width: 100%;
+    text-align: center;
+}
+
+input.search {
+    width: 75%;
+    margin: 12.5px 0;
+    padding: 10px 5px;
+    font-size: 1em;
+    display: inline-block;
+}
+
+.emoji{
+    background-color: #FFA500; //gb(238, 237, 234);
+    color: white;
+    font-size: 1.7em;
+    margin: 0 0 0 7.5px;
+    padding: 8px 8px 6px 8px;
+    border: 1px solid white;
+    display: inline-block;
+    vertical-align: middle;
+
+    &:hover {
+      cursor: pointer;
+    }
+}

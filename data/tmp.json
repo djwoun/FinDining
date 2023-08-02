@@ -1,0 +1,1172 @@
+[
+    {
+        "name": "Steak n Shake",
+        "location": "Student Union",
+        "MS": "Dinner",
+        "Monday": [ "1030", "1930" ],
+        "Tuesday": [ "1030", "1930" ],
+        "Wednesday": [ "1030", "1930" ],
+        "Thursday": [ "1030", "1930" ],
+        "Friday": [ "1030", "1700" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Burgers",
+                "name": "Single Steakburger N Cheese Combo",
+                "price": "$3.99"
+            },
+            {
+                "category": "Other Specialties",
+                "name": "Frisco Melt N Fries",
+                "price": "$5.49"
+            },
+            {
+                "category": "Other Specialties",
+                "name": "Classic Footlong Hotdog N Fries",
+                "price": "$3.99"
+            },
+            {
+                "category": "Other Specialties",
+                "name": "Grilled Cheese N Fries",
+                "price": "$3.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Thin N Crispy Fries",
+                "price": "$1.79"
+            },
+            {
+                "category": "Sides",
+                "name": "Cheese Fries",
+                "price": "$2.29"
+            },
+            {
+                "category": "Sides",
+                "name": "Chili Cheese Fries",
+                "price": "$2.79"
+            },
+            {
+                "category": "Sides",
+                "name": "Genuine Chili",
+                "price": "$2.29"
+            },
+            {
+                "category": "Sides",
+                "name": "Onion Rings",
+                "price": "$2.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Chocolate MilkShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Vanilla MilkShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Strawberry MilkShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Orange FreezeShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Butterfinger-Spartan Shake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "CookieDough MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Oreo Cookies 'N Cream MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "M&M's MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Peanut Butter Cup MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Nutella MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "KitKat MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Soft Drinks",
+                "price": "$1.99"
+            },
+            {
+                "category": "Drinks",
+                "name": "Aquafina Bottled Water",
+                "price": "$2.09"
+            }
+        ]
+    },
+    {
+        "name": "Chick-fil-A",
+        "location": "Rocky Top",
+        "MS": "Dinner",
+        "Monday": [ "730", "2200" ],
+        "Tuesday": [ "730", "2200" ],
+        "Wednesday": [ "730", "2200" ],
+        "Thursday": [ "730", "2200" ],
+        "Friday": [ "730", "2200" ],
+        "Saturday": [ "1030", "2200" ],
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Nuggets",
+                "price": "$4.95"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Nuggets",
+                "price": "$5.79"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Chicken Sandwich",
+                "price": "$6.49"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Chicken Club Sandwich",
+                "price": "$8.35"
+            },
+            {
+                "category": "Entrees",
+                "name": "Spicy Chicken Sandwich",
+                "price": "$5.25"
+            },
+            {
+                "category": "Entrees",
+                "name": "Spicy Deluxe Sandwich",
+                "price": "$5.95"
+            },
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Chicken Sandwich",
+                "price": "$4.89"
+            },
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Deluxe Sandwich",
+                "price": "$5.59"
+            },
+            {
+                "category": "Salads",
+                "name": "Market Salad",
+                "price": "$9.69"
+            },
+            {
+                "category": "Salads",
+                "name": "Spicy Southwest Salad",
+                "price": "$9.69"
+            },
+            {
+                "category": "Sides",
+                "name": "Waffle Potato Fries",
+                "price": "$2.35"
+            },
+            {
+                "category": "Sides",
+                "name": "Mac & Cheese",
+                "price": "$3.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Side Salad",
+                "price": "$4.09"
+            },
+            {
+                "category": "Treats",
+                "name": "Chocolate Chunk Cookie",
+                "price": "$1.65"
+            },
+            {
+                "category": "Treats",
+                "name": "Chocolate Fudge Brownie",
+                "price": "$2.25"
+            },
+            {
+                "category": "Treats",
+                "name": "Chocolate MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Vanilla MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Strawberry MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Cookies & Cream MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Frosted Lemonade",
+                "price": "$4.39"
+            },
+            {
+                "category": "Treats",
+                "name": "Diet Frosted Lemonade",
+                "price": "$4.39"
+            },
+            {
+                "category": "Treats",
+                "name": "Large Icecream Cup",
+                "price": "$1.75"
+            },
+            {
+                "category": "Treats",
+                "name": "Large Icecream Cone",
+                "price": "$1.75"
+            },
+            {
+                "category": "Treats",
+                "name": "Frosted Coffee",
+                "price": "$4.39"
+            },
+            {
+                "category": "Beverages",
+                "name": "Chick-fil-A Lemonade",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Chick-fil-A Diet Lemonade",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Freshly-Brewed Sweet Iced Tea",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Freshly-Brewed Unsweetened Iced Tea",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Sunjoy",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Soft Drink",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Iced Coffee",
+                "price": "$3.29"
+            },
+            {
+                "category": "Beverages",
+                "name": "Regular Coffee",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Simply Orange Juice",
+                "price": "$2.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Bottled Dasani",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Milk",
+                "price": "$1.75"
+            }
+        ]
+    },
+    {
+        "name": "Raising Cane's",
+        "location": "Cumberland",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "2230" ],
+        "Tuesday": [ "1030", "2230" ],
+        "Wednesday": [ "1030", "2230" ],
+        "Thursday": [ "1030", "2230" ],
+        "Friday": [ "1030", "2230" ],
+        "Saturday": [ "1200", "2230" ],
+        "Sunday": [ "1200", "2230" ],
+        "Menu": [
+            {
+                "category": "Combos",
+                "name": "The 3 Finger Combo",
+                "price": "$8.99"
+            },
+            {
+                "category": "Combos",
+                "name": "The Box Combo",
+                "price": "$10.59"
+            },
+            {
+                "category": "Combos",
+                "name": "The Caniac Combo",
+                "price": "$15.38"
+            },
+            {
+                "category": "Combos",
+                "name": "The Sandwich Combo",
+                "price": "$9.49"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fresh Brewed Tea",
+                "price": "$2.26"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fresh Squeezed Lemonade",
+                "price": "$2.49"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.26"
+            },
+            {
+                "category": "A la carte",
+                "name": "Chicken Finger",
+                "price": "$1.81"
+            },
+            {
+                "category": "A la carte",
+                "name": "Honey Mustard",
+                "price": "$0.39"
+            },
+            {
+                "category": "A la carte",
+                "name": "Cane's Sauce",
+                "price": "$0.39"
+            },
+            {
+                "category": "A la carte",
+                "name": "Crinkle-Cut Fries",
+                "price": "$2.26"
+            },
+            {
+                "category": "A la carte",
+                "name": "Texas Toast",
+                "price": "$1.36"
+            },
+            {
+                "category": "A la carte",
+                "name": "Coleslaw",
+                "price": "$1.36"
+            }
+        ]
+    },
+    {
+        "name": "Subway",
+        "location": "Fred Brown Hall",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "2200" ],
+        "Tuesday": [ "1030", "2200" ],
+        "Wednesday": [ "1030", "2200" ],
+        "Thursday": [ "1030", "2200" ],
+        "Friday": [ "1030", "2100" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#1 The Philly 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#2 The Outlaw 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#3 The Monster 12in",
+                "price": "$11.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#4 Supreme Meats 12in",
+                "price": "$9.19"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#5 Bella Mozza 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#6 The Boss 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#7 The MexiCali 12in",
+                "price": "$10.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#8 The Great Garlic 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#9 The Champ 12in",
+                "price": "$9.89"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#10 All-American Club 12in",
+                "price": "$9.29"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#11 Subway Club 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#12 The Turkey Cali Club 12in",
+                "price": "$12.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#1 The Philly 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#2 The Outlaw 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#3 The Monster 6in",
+                "price": "$6.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#4 Supreme Meats 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#5 Bella Mozza 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#6 The Boss 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#7 The MexiCali 6in",
+                "price": "$7.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#8 The Great Garlic 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#9 The Champ 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#10 All-American Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#11 Subway Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#12 The Turkey Cali Club 6in",
+                "price": "$7.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Sweet Onion Chicken Teriyaki",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Steak & Cheese",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Subway Club",
+                "price": "$6.09"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Chicken & Bacon Ranch",
+                "price": "$6.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Roast Beef",
+                "price": "$6.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Italian BMT",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast & Black Forest Ham",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Tuna",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Meatball Marinara",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Black Forest Ham",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Cold Cut Combo",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Spicy Italian",
+                "price": "$4.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Delite",
+                "price": "$4.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in All-American Club",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Patty",
+                "price": "$5.69"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Buffalo Chicken",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in B.L.T.",
+                "price": "$5.59"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Rotisserie Chicken",
+                "price": "$6.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Black Forest Ham",
+                "price": "$6.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Chicken & Bacon Ranch Melt",
+                "price": "$10.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Cold Cut Combo",
+                "price": "$7.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Italian BMT",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Meatball Marinara",
+                "price": "$7.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Roast Beef",
+                "price": "$10.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Spicy Italian",
+                "price": "$7.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Steak & Cheese",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Subway Club",
+                "price": "$9.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in All-American Club",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Sweet Onion Chicken Teriyaki",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Tuna",
+                "price": "$8.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast & Black Forest Ham",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Delite",
+                "price": "$6.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Patty",
+                "price": "$8.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Rotisserie Chicken",
+                "price": "$9.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Buffalo Chicken",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in B.L.T.",
+                "price": "$8.59"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Bottle Drink Combo",
+                "price": "$3.19"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Fountain Drink Combo",
+                "price": "$2.19"
+            },
+            {
+                "category": "Salads",
+                "name": "Chicken Chopped Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Spicy Italian Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Tuna Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Turkey Breast Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Veggie Delite Salad",
+                "price": "$5.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Chips",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sides",
+                "name": "3 Cookies",
+                "price": "$2.09"
+            },
+            {
+                "category": "Sides",
+                "name": "Cookie",
+                "price": "$0.79"
+            },
+            {
+                "category": "Drinks",
+                "name": "Dasani Water",
+                "price": "$2.69"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Drink",
+                "price": "$2.69"
+            }
+        ]
+    },
+    {
+        "name": "Subway",
+        "location": "Student Union",
+        "MS": "Dinner",
+        "Monday": [ "1030", "1930" ],
+        "Tuesday": [ "1030", "1930" ],
+        "Wednesday": [ "1030", "1930" ],
+        "Thursday": [ "1030", "1930" ],
+        "Friday": [ "1030", "1800" ],
+        "Saturday": [ "1030", "1800" ],
+        "Sunday": [ "1200", "1930" ],
+        "Menu": [
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#1 The Philly 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#2 The Outlaw 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#3 The Monster 12in",
+                "price": "$11.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#4 Supreme Meats 12in",
+                "price": "$9.19"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#5 Bella Mozza 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#6 The Boss 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#7 The MexiCali 12in",
+                "price": "$10.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#8 The Great Garlic 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#9 The Champ 12in",
+                "price": "$9.89"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#10 All-American Club 12in",
+                "price": "$9.29"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#11 Subway Club 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#12 The Turkey Cali Club 12in",
+                "price": "$12.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#1 The Philly 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#2 The Outlaw 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#3 The Monster 6in",
+                "price": "$6.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#4 Supreme Meats 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#5 Bella Mozza 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#6 The Boss 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#7 The MexiCali 6in",
+                "price": "$7.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#8 The Great Garlic 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#9 The Champ 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#10 All-American Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#11 Subway Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#12 The Turkey Cali Club 6in",
+                "price": "$7.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Sweet Onion Chicken Teriyaki",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Steak & Cheese",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Subway Club",
+                "price": "$6.09"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Chicken & Bacon Ranch",
+                "price": "$6.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Roast Beef",
+                "price": "$6.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Italian BMT",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast & Black Forest Ham",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Tuna",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Meatball Marinara",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Black Forest Ham",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Cold Cut Combo",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Spicy Italian",
+                "price": "$4.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Delite",
+                "price": "$4.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in All-American Club",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Patty",
+                "price": "$5.69"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Buffalo Chicken",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in B.L.T.",
+                "price": "$5.59"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Rotisserie Chicken",
+                "price": "$6.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Black Forest Ham",
+                "price": "$6.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Chicken & Bacon Ranch Melt",
+                "price": "$10.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Cold Cut Combo",
+                "price": "$7.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Italian BMT",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Meatball Marinara",
+                "price": "$7.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Roast Beef",
+                "price": "$10.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Spicy Italian",
+                "price": "$7.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Steak & Cheese",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Subway Club",
+                "price": "$9.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in All-American Club",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Sweet Onion Chicken Teriyaki",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Tuna",
+                "price": "$8.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast & Black Forest Ham",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Delite",
+                "price": "$6.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Patty",
+                "price": "$8.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Rotisserie Chicken",
+                "price": "$9.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Buffalo Chicken",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in B.L.T.",
+                "price": "$8.59"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Bottle Drink Combo",
+                "price": "$3.19"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Fountain Drink Combo",
+                "price": "$2.19"
+            },
+            {
+                "category": "Salads",
+                "name": "Chicken Chopped Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Spicy Italian Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Tuna Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Turkey Breast Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Veggie Delite Salad",
+                "price": "$5.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Chips",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sides",
+                "name": "3 Cookies",
+                "price": "$2.09"
+            },
+            {
+                "category": "Sides",
+                "name": "Cookie",
+                "price": "$0.79"
+            },
+            {
+                "category": "Drinks",
+                "name": "Dasani Water",
+                "price": "$2.69"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Drink",
+                "price": "$2.69"
+            }
+        ]
+    }
+]

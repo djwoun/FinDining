@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Fin' Dining [TESTING]</title>
+  </head>
+  <style>
+    div {
+      width: 50px;
+      height: 50px;
+      margin: 25% auto;
+      background-color: red;
+      transform: scale(2.0);
+      transform-origin: 0px 0px;
+    }
+  </style>
+  <body>
+    <div></div>
+    <script>
+      function myFunction() {
+        document.querySelector("div").style.transform = "translate(-25px, -25px) scale(2.0) translate(25px, 25px) scale(2.0)";
+        document.querySelector("div").style.transformOrigin = "25px 25px";
+      }
+      function myFunction2() {
+        document.querySelector("div").style.transform = "translate(-50px, -50px) scale(2.0) translate(50px, 50px) translate(-25px, -25px) scale(2.0) translate(25px, 25px) scale(2.0)";
+        document.querySelector("div").style.transformOrigin = "45px 45px";
+      }
+      setTimeout(myFunction, 1000);
+      setTimeout(myFunction2, 2000);
+    </script>
+  </body>
+</html>

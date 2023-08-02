@@ -1,0 +1,39 @@
+﻿Vegan&Vegetarian
+* Blenz TRECS
+* Blenz Smoothie Bowls@Student Union
+* Dining Hall @ Rocky Top
+* Dunkin Donuts
+* Einstein Bros. Bagels @ Haslam
+* Einstein Bros. Bagels @ Mossman
+* Einstein Bros. Bagels @ Art & Architecture
+* Fresh Food Company @ Stokely
+* Panda Express @ Cumberland
+* Panda Express @ Student Union
+* Rising Roll
+* Starbucks @ Hodges Library
+* Starbucks @ Student Union
+* Subway @ Student Union
+* Subway @ Fred Brown Hall
+* Twisted Taco
+* Which Wich
+
+
+Lactose-Free
+* Dining Hall @ Rocky Top
+* Dunkin Donuts
+* Einstein Bros. Bagels @ Haslam
+* Einstein Bros. Bagels @ Mossman
+* Einstein Bros. Bagels @ Art & Architecture
+* Fresh Food Company @ Stokely
+* Starbucks @ Hodges Library
+* Starbucks @ Student Union
+* Subway @ Student Union
+* Subway @ Fred Brown Hall
+
+
+Gluten-Free
+* Dining Hall @ Rocky Top
+* Fresh Food Company @ Stokely
+* Rising Roll
+* Twisted Taco
+* Which Wich

@@ -1,0 +1,26 @@
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# next.js
+frontend/.next/
+frontend/out/
+
+# production
+frontend/build
+
+# misc
+frontend/vscode
+
+# debug
+frontend/npm-debug.log*
+
+# pycache
+backend/api/__pycache__
+backend/api/migrations/__pycache__
+backend/backend/__pycache__
+
+Sprint1
+Sprint2
+Sprint3

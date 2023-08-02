@@ -1,0 +1,250 @@
+@keyframes animation {
+    from {transform: translateY(-100px); opacity: 0.0}
+    to {transform: translateY(0); opacity: 1.0}
+}
+@keyframes fadeIn {
+    from {opacity: 0.0}
+    to {opacity: 0.3}
+}
+
+.bb{
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    top: 50px;
+    animation-name: fadeIn;
+    animation-duration: 0.5;
+    z-index: 7;
+}
+
+.bg{
+    border-radius: 15px;
+    background-color: rgb(238, 237, 234);
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    padding: 15px 15px;
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.2),0 20px 20px 0 rgba(0,0,0,0.2);
+    animation-name: animation;
+    animation-duration: 0.7s;
+}
+
+.emoji{
+    background-color: rgb(238, 237, 234);
+    color: black;
+    font-size: 3em;
+    margin: 0;
+    padding: 0 10px 0 0;
+    cursor: pointer;
+
+    left: 0;
+    display: inline-block;
+}
+
+.emoji:hover{
+    color:darkgray;
+}
+
+.showBB {
+    display: block;
+    opacity: 0.3;
+  }  
+
+.showBack {
+    display: block !important;
+    opacity: 1.0;
+}
+
+/*Make Table*/
+
+.splitleft{
+    width: 80%;
+    height: 100%;
+    left: 0;
+    padding-left: 1.5%;
+    display: inline-block;
+}
+.splitright{
+    width: 12%;
+    height: 100%;
+    right: 0;
+    padding-left: 1.5%;
+    text-align: right;
+    display: inline-block;
+}
+
+.row {
+    height: 11%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.list{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.menu{
+    font-size: 1.3em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.first{
+    width: 25%;
+    display: inline-block;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.second{
+    width: 25%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.third{
+    width: 25%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.fourth{
+    width: 25%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/*Vertical Lines*/
+.divider{
+    border-top: 1px solid #bbb;
+}
+
+.dot{
+    border-top: 3px dotted black;
+}
+
+.solid{
+    border-top: 2px solid black;
+}
+
+/*Scroll*/
+.scroll{
+    scroll-behavior: smooth;
+    height: calc(100% - 3em);
+    overflow-y: auto;
+}
+
+.scroll::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+    
+.scroll::-webkit-scrollbar-track {
+border: 1px solid black;
+border-radius: 10px;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    background: black;  
+    border-radius: 20px;
+}
+    
+.scroll::-webkit-scrollbar-thumb:hover {
+    background: gray;  
+}
+
+/*Toggle Switch*/
+.knobs,
+.layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.button {
+  position: relative;
+  top: 50%;
+  width: 150px;
+  height: 50px;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.checkbox {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 3;
+  }
+  
+  .knobs {
+    z-index: 2;
+  }
+  
+  .layer {
+    width: 100%;
+    background-color: rgb(233, 227, 209);
+    transition: 0.5s;
+    z-index: 1;
+  }
+  
+  /* Button Function*/
+  #buttonFunc .knobs:before,
+  #buttonFunc .knobs:after,
+  #buttonFunc .knobs span {
+    position: absolute;
+    top: 4px;
+    width: 60px;
+    height: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+    padding: 9px 6px;
+    border-radius: 2px;
+    transition: 0.5s;
+  }
+  
+  #buttonFunc .knobs:before {
+    content: "";
+    left: 4px;
+    background-color: rgb(148,127,87);
+  }
+  
+  #buttonFunc .knobs:after {
+    content: "Standard";
+    right: 4px;
+    color: black;
+  }
+  
+  #buttonFunc .knobs span {
+    display: inline-block;
+    left: 4px;
+    color: #fff;
+    z-index: 1;
+  }
+  
+  #buttonFunc .checkbox:checked + .knobs span {
+    color: black;
+  }
+  
+  #buttonFunc .checkbox:checked + .knobs:before {
+    left: 74px;
+    background-color: rgb(148,127,87);
+  }
+  
+  #buttonFunc .checkbox:checked + .knobs:after {
+    color: #fff;
+  }
+  
+  #buttonFunc .checkbox:checked ~ .layer {
+    background-color: rgb(233, 227, 209);
+  }

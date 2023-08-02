@@ -1,0 +1,152 @@
+@keyframes animation {
+    from {transform: translateY(-100px); opacity: 0.0}
+    to {transform: translateY(0); opacity: 1.0}
+}
+@keyframes fadeIn {
+    from {opacity: 0.0}
+    to {opacity: 0.3}
+}
+
+.bb{
+    background-color: rgba(0, 0, 0);
+    width: 100%;
+    height: 100%;
+    animation-name: fadeIn;
+    animation-duration: 0.5s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    opacity: 0.0;
+    z-index: 7;
+}
+.showBB {
+  display: block;
+  opacity: 0.3;
+}
+
+.back{
+    border-radius: 15px;
+    background-color: rgb(238, 237, 234, 1);
+    width: 1000px;
+    height: 500px;
+    padding: 15px 15px;
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2),0 20px 20px 0 rgba(0,0,0,0.2);
+    animation-name: animation;
+    animation-duration: 0.5s;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    display: none;
+    opacity: 0.0;
+    z-index: 8;
+}
+.showBack {
+    display: block !important;
+    opacity: 1.0;
+}
+
+.wrap{
+    background-color: rgb(238, 237, 234);
+    color: black;
+    font-size: 3em;
+    margin: 0;
+    padding: 0 15px 0 0;
+    cursor: pointer;
+}
+
+.wrapRight {
+    float: right;
+}
+
+.wrap:hover{
+    color: darkgray;
+}
+
+.img{
+    width: 700px;
+    height: 180px;
+    border: solid;
+    border-radius: 8px;
+    margin: 10px auto;
+    border-width: 5px;
+    // background: url(CFA_Logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.opcl{
+    font-size: 3em;
+    width: 70%;
+    left: 0;
+    display: inline-block;
+    color: rgb(148,127,87);
+    font-weight: bold;
+}
+
+.simp{
+    font-size: 2em;
+    color: black;
+    font-weight: bold;
+}
+
+.star{
+    width: 30%;
+    right: 0;
+    display: inline-block;
+}
+
+.time{
+    float: right;
+    font-weight: normal;
+}
+
+.address{
+    font-size: 2em;
+    text-align: right;
+    font-weight: bold;
+}
+
+.splitleft{
+    width: 55%;
+    left: 0;
+    display: inline-block;
+}
+
+.splitright{
+    width: 45%;
+    right: 0;
+    display: inline-block;
+}
+.splitleft2{
+    width: 80%;
+    height: 100%;
+    left: 0;
+    padding-left: 1.5%;
+    display: inline-block;
+}
+.splitright2{
+    width: 12%;
+    height: 100%;
+    right: 0;
+    padding-left: 1.5%;
+    text-align: right;
+    display: inline-block;
+}
+
+.votes{
+    background: url(VOTE.png);
+    cursor: pointer;
+    background-size: contain;
+    width: 100px;
+    height: 50px;
+    font-size: 2em;
+    text-align: right;
+    font-weight: bold;
+    background-position: right;
+    margin: 0px auto 25px 290px;
+}

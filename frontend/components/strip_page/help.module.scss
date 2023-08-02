@@ -1,0 +1,185 @@
+@keyframes animation {
+    // from {padding: 100px 150px; opacity: 0%}
+    // to {opacity: 100%} 
+    from {transform: translateY(-100px); opacity: 0.0}
+    to {transform: translateY(0); opacity: 1.0}
+}
+@keyframes fadeIn {
+    from {opacity: 0.0}
+    to {opacity: 0.3}
+}
+
+.bb{
+    background-color: rgba(0, 0, 0);
+    width: 100%;
+    height: 100vh;
+    display: none;
+    opacity: 0;
+    z-index: 7;
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation-name: fadeIn;
+    animation-duration: 0.5s;
+}
+.showbb{
+    opacity: 0.3;
+    display: block;
+}
+
+.bg{
+    background-color: rgb(238, 237, 234);
+    width: 1000px;
+    height: auto;
+    scroll-behavior: smooth;
+    overflow-y: auto;
+    border-radius: 15px;
+    margin: auto;
+    padding: 15px 15px;
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2),0 20px 20px 0 rgba(0,0,0,0.2);
+    animation-name: animation;
+    animation-duration: 0.5s;
+    display: none;
+    opacity: 0;
+    z-index: 8;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.showbg{
+    opacity: 1.0;
+    display: block !important;
+}
+
+.bg::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+    
+.bg::-webkit-scrollbar-track {
+border: 1px solid black;
+border-radius: 10px;
+}
+
+.bg::-webkit-scrollbar-thumb {
+    background: black;  
+    border-radius: 20px;
+}
+    
+.bg::-webkit-scrollbar-thumb:hover {
+    background: gray;  
+}
+
+
+.emoji{
+    background-color: rgb(238, 237, 234);
+    color: black;
+    font-size: 3em;
+    margin: 0;
+    padding: 0 10px 0 0 ;
+    cursor: pointer;
+
+    left: 0;
+    display: inline-block;
+}
+
+.emoji:hover{
+    color:darkgray;
+}
+
+/*Make Table*/
+.splitleft{
+    width: 96%;
+    height: 100%;
+    left: 0;
+    padding-left: 1.5%;
+    display: inline-block;
+}
+
+.splitright{
+    width: 48%;
+    height: 100%;
+    right: 0;
+    padding-left: 1.5%;
+    display: inline-block;
+}
+
+.row {
+    height: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.list{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.menu{
+    font-size: 1.3em;
+}
+
+.left{
+    padding-top: 5px;
+    width: 40%;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.image{
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+}
+
+.imageButton{
+    width: 16%;
+    height: 16%;
+    display: inline-block;
+}
+
+.leftMenu{
+    padding-top: 5px;
+    width: 40%;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.imageMenu{
+    width: 70%;
+    height: 70%;
+    display: inline-block;
+}
+
+.middle{
+    width: 60%;
+    vertical-align: baseline;
+    display: inline-block;
+}
+
+.middleMenu{
+    width: 60%;
+    display: inline-block;
+}
+
+
+.right{
+    padding-top: 5px;
+    width: 30%;
+    display: inline-block;
+}
+
+/*Vertical Lines*/
+.divider{
+    border-top: 1px solid #bbb;
+}
+
+.dot{
+    border-top: 3px dotted black;
+}
+
+.solid{
+    border-top: 2px solid black;
+}

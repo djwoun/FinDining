@@ -1,0 +1,4614 @@
+[
+    {
+        "name": "Fresh Food Company",
+        "location": "Stokely",
+        "address": "1311 Lake Loudon Boulevard",
+        "MS": "No",
+        "Monday": [ "700", "2100" ],
+        "Tuesday": [ "700", "2100" ],
+        "Wednesday": [ "700", "2100" ],
+        "Thursday": [ "700", "2100" ],
+        "Friday": [ "700", "2000" ],
+        "Saturday": [ "800", "1400" ],
+        "Sunday": [ "900", "2100" ],
+        "Menu": null,
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": true,
+        "coordinate": [ "2500", "4000" ],
+        "image": "freshfood.jpg",
+        "cardinal": "S"
+    },
+    {
+        "name": "Dining Hall",
+        "location": "Rocky Top",
+        "address": "1017 Francis Street",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "700", "2200" ],
+        "Tuesday": [ "700", "2200" ],
+        "Wednesday": [ "700", "2200" ],
+        "Thursday": [ "700", "2200" ],
+        "Friday": [ "700", "2000" ],
+        "Saturday": [ "800", "2000" ],
+        "Sunday": [ "800", "2100" ],
+        "Menu": null,
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": true,
+        "coordinate": [ "2500", "3100" ],
+        "image": "freshfood.jpg",
+        "cardinal": "W"
+    },
+    {
+        "name": "Southern Kitchen",
+        "location": "Volunteer Hall",
+        "address": "1525 White Avenue",
+        "MS": "No",
+        "Monday": [ "700", "2000" ],
+        "Tuesday": [ "700", "2000" ],
+        "Wednesday": [ "700", "2000" ],
+        "Thursday": [ "700", "2000" ],
+        "Friday": [ "700", "1700" ],
+        "Saturday": [ "800", "1400" ],
+        "Sunday": [ "800", "1400" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "600", "3800" ],
+        "image": "freshfood.jpg",
+        "cardinal": "N"
+    },
+    {
+        "name": "Vol Bakery",
+        "location": "Rocky Top",
+        "address": "1017 Francis Street",
+        "MS": "No",
+        "Monday": [ "730", "1330" ],
+        "Tuesday": [ "730", "1330" ],
+        "Wednesday": [ "730", "1330" ],
+        "Thursday": [ "730", "1330" ],
+        "Friday": [ "730", "1330" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Sweets & Treats",
+                "name": "Craveworthy Cookies",
+                "price": "$12.99/dozen"
+            },
+            {
+                "category": "Sweets & Treats",
+                "name": "Muffins",
+                "price": "$6.99/dozen"
+            },
+            {
+                "category": "Sweets & Treats",
+                "name": "Brownies",
+                "price": "$13.99/dozen"
+            },
+            {
+                "category": "Sweets & Treats",
+                "name": "Orange Power T Cookie",
+                "price": "$10.99/dozen"
+            },
+            {
+                "category": "Sweets & Treats",
+                "name": "Petit Fours",
+                "price": "$14.99/dozen"
+            },
+            {
+                "category": "Cheesecakes",
+                "name": "New York Style",
+                "price": "$15.99"
+            },
+            {
+                "category": "Cheesecakes",
+                "name": "Specialty",
+                "price": "$18.99"
+            },
+            {
+                "category": "Cheesecakes",
+                "name": "Pumpkin",
+                "price": "$21.99"
+            },
+            {
+                "category": "Cheesecakes",
+                "name": "Turtle",
+                "price": "$21.99"
+            },
+            {
+                "category": "Cupcakes",
+                "name": "White or Chocolate",
+                "price": "$12.99/dozen"
+            },
+            {
+                "category": "Cupcakes",
+                "name": "Red Velvet",
+                "price": "$12.99/dozen"
+            },
+            {
+                "category": "Pies (10 inch)",
+                "name": "Specialty Pies",
+                "price": "$9.99"
+            },
+            {
+                "category": "Pies (10in)",
+                "name": "Derby Pie",
+                "price": "$10.99"
+            },
+            {
+                "category": "Pies (10 inch)",
+                "name": "Key Lime Pie",
+                "price": "$9.99"
+            },
+            {
+                "category": "Bread",
+                "name": "Pumpkin",
+                "price": "$6.99"
+            },
+            {
+                "category": "Bread",
+                "name": "Banana",
+                "price": "$6.99"
+            },
+            {
+                "category": "Bread",
+                "name": "Cranberry",
+                "price": "$7.59"
+            },
+            {
+                "category": "Bread",
+                "name": "Sour Cream Pound Cake",
+                "price": "$7.59"
+            },
+            {
+                "category": "Cakes",
+                "name": "6in Round",
+                "price": "$12.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "8in Round",
+                "price": "$14.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "10in Round",
+                "price": "$16.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "1/4 Sheet",
+                "price": "$16.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "1/2 Sheet",
+                "price": "$24.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "Full Sheet",
+                "price": "$39.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "1/2 Sheet Double Layer",
+                "price": "$36.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "Full Sheet Double Layer",
+                "price": "$77.99"
+            },
+            {
+                "category": "Cakes",
+                "name": "Cookie Cake",
+                "price": "$12.99"
+            },
+            {
+                "category": "Specialty Cakes",
+                "name": "8in Round",
+                "price": "$16.99"
+            },
+            {
+                "category": "Specialty Cakes",
+                "name": "10in Round",
+                "price": "$24.99"
+            },
+            {
+                "category": "Specialty Cakes",
+                "name": "1/2 Sheet",
+                "price": "$29.99"
+            },
+            {
+                "category": "Specialty Cakes",
+                "name": "Full Sheet",
+                "price": "$44.99"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "default.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Arena Dining Cafe",
+        "location": "Thompson-Boling",
+        "address": "1600 Phillip Fulmer Way",
+        "MS": "Lunch",
+        "Monday": [ "730", "1400" ],
+        "Tuesday": [ "730", "1400" ],
+        "Wednesday": [ "730", "1400" ],
+        "Thursday": [ "730", "1400" ],
+        "Friday": [ "730", "1400" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "2700", "4900" ],
+        "image": "cafe.png",
+        "cardinal": "S"
+    },
+    {
+        "name": "Mabel's",
+        "location": "McCord Hall",
+        "address": "2640 Morgan Cir",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "700", "1400" ],
+        "Tuesday": [ "700", "1400" ],
+        "Wednesday": [ "700", "1400" ],
+        "Thursday": [ "700", "1400" ],
+        "Friday": [ "700", "1400" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "3150", "1400" ],
+        "image": "mabel.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Subway",
+        "location": "Fred Brown Hall",
+        "address": "1817 Andy Holt Ave",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "2200" ],
+        "Tuesday": [ "1030", "2200" ],
+        "Wednesday": [ "1030", "2200" ],
+        "Thursday": [ "1030", "2200" ],
+        "Friday": [ "1030", "2100" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#1 The Philly 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#2 The Outlaw 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#3 The Monster 12in",
+                "price": "$11.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#4 Supreme Meats 12in",
+                "price": "$9.19"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#5 Bella Mozza 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#6 The Boss 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#7 The MexiCali 12in",
+                "price": "$10.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#8 The Great Garlic 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#9 The Champ 12in",
+                "price": "$9.89"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#10 All-American Club 12in",
+                "price": "$9.29"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#11 Subway Club 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#12 The Turkey Cali Club 12in",
+                "price": "$12.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#1 The Philly 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#2 The Outlaw 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#3 The Monster 6in",
+                "price": "$6.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#4 Supreme Meats 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#5 Bella Mozza 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#6 The Boss 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#7 The MexiCali 6in",
+                "price": "$7.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#8 The Great Garlic 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#9 The Champ 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#10 All-American Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#11 Subway Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#12 The Turkey Cali Club 6in",
+                "price": "$7.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Sweet Onion Chicken Teriyaki",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Steak & Cheese",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Subway Club",
+                "price": "$6.09"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Chicken & Bacon Ranch",
+                "price": "$6.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Roast Beef",
+                "price": "$6.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Italian BMT",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast & Black Forest Ham",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Tuna",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Meatball Marinara",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Black Forest Ham",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Cold Cut Combo",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Spicy Italian",
+                "price": "$4.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Delite",
+                "price": "$4.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in All-American Club",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Patty",
+                "price": "$5.69"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Buffalo Chicken",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in B.L.T.",
+                "price": "$5.59"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Rotisserie Chicken",
+                "price": "$6.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Black Forest Ham",
+                "price": "$6.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Chicken & Bacon Ranch Melt",
+                "price": "$10.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Cold Cut Combo",
+                "price": "$7.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Italian BMT",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Meatball Marinara",
+                "price": "$7.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Roast Beef",
+                "price": "$10.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Spicy Italian",
+                "price": "$7.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Steak & Cheese",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Subway Club",
+                "price": "$9.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in All-American Club",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Sweet Onion Chicken Teriyaki",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Tuna",
+                "price": "$8.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast & Black Forest Ham",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Delite",
+                "price": "$6.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Patty",
+                "price": "$8.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Rotisserie Chicken",
+                "price": "$9.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Buffalo Chicken",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in B.L.T.",
+                "price": "$8.59"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Bottle Drink Combo",
+                "price": "$3.19"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Fountain Drink Combo",
+                "price": "$2.19"
+            },
+            {
+                "category": "Salads",
+                "name": "Chicken Chopped Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Spicy Italian Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Tuna Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Turkey Breast Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Veggie Delite Salad",
+                "price": "$5.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Chips",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sides",
+                "name": "3 Cookies",
+                "price": "$2.09"
+            },
+            {
+                "category": "Sides",
+                "name": "Cookie",
+                "price": "$0.79"
+            },
+            {
+                "category": "Drinks",
+                "name": "Dasani Water",
+                "price": "$2.69"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Drink",
+                "price": "$2.69"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "1050", "3900" ],
+        "image": "subway.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Subway",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "Dinner",
+        "Monday": [ "1030", "1930" ],
+        "Tuesday": [ "1030", "1930" ],
+        "Wednesday": [ "1030", "1930" ],
+        "Thursday": [ "1030", "1930" ],
+        "Friday": [ "1030", "1800" ],
+        "Saturday": [ "1030", "1800" ],
+        "Sunday": [ "1200", "1930" ],
+        "Menu": [
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#1 The Philly 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#2 The Outlaw 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#3 The Monster 12in",
+                "price": "$11.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#4 Supreme Meats 12in",
+                "price": "$9.19"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#5 Bella Mozza 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#6 The Boss 12in",
+                "price": "$9.39"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#7 The MexiCali 12in",
+                "price": "$10.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#8 The Great Garlic 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#9 The Champ 12in",
+                "price": "$9.89"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#10 All-American Club 12in",
+                "price": "$9.29"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#11 Subway Club 12in",
+                "price": "$9.99"
+            },
+            {
+                "category": "Subway Series 12in Subs",
+                "name": "#12 The Turkey Cali Club 12in",
+                "price": "$12.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#1 The Philly 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#2 The Outlaw 6in",
+                "price": "$6.29"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#3 The Monster 6in",
+                "price": "$6.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#4 Supreme Meats 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#5 Bella Mozza 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#6 The Boss 6in",
+                "price": "$5.89"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#7 The MexiCali 6in",
+                "price": "$7.19"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#8 The Great Garlic 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#9 The Champ 6in",
+                "price": "$6.49"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#10 All-American Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#11 Subway Club 6in",
+                "price": "$5.99"
+            },
+            {
+                "category": "Subway Series 6in Subs",
+                "name": "#12 The Turkey Cali Club 6in",
+                "price": "$7.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Sweet Onion Chicken Teriyaki",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Steak & Cheese",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Subway Club",
+                "price": "$6.09"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Chicken & Bacon Ranch",
+                "price": "$6.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Roast Beef",
+                "price": "$6.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Italian BMT",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Turkey Breast & Black Forest Ham",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Tuna",
+                "price": "$5.39"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Meatball Marinara",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Black Forest Ham",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Cold Cut Combo",
+                "price": "$4.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Spicy Italian",
+                "price": "$4.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Delite",
+                "price": "$4.49"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in All-American Club",
+                "price": "$5.99"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Veggie Patty",
+                "price": "$5.69"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Buffalo Chicken",
+                "price": "$5.79"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in B.L.T.",
+                "price": "$5.59"
+            },
+            {
+                "category": "6in Build Your Own Sandwiches",
+                "name": "6in Rotisserie Chicken",
+                "price": "$6.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Black Forest Ham",
+                "price": "$6.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Chicken & Bacon Ranch Melt",
+                "price": "$10.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Cold Cut Combo",
+                "price": "$7.09"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Italian BMT",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Meatball Marinara",
+                "price": "$7.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Roast Beef",
+                "price": "$10.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Spicy Italian",
+                "price": "$7.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Steak & Cheese",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Subway Club",
+                "price": "$9.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in All-American Club",
+                "price": "$9.29"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Sweet Onion Chicken Teriyaki",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Tuna",
+                "price": "$8.99"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Turkey Breast & Black Forest Ham",
+                "price": "$8.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Delite",
+                "price": "$6.59"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Veggie Patty",
+                "price": "$8.69"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Rotisserie Chicken",
+                "price": "$9.19"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in Buffalo Chicken",
+                "price": "$8.89"
+            },
+            {
+                "category": "12in Build Your Own Sandwiches",
+                "name": "12in B.L.T.",
+                "price": "$8.59"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Bottle Drink Combo",
+                "price": "$3.19"
+            },
+            {
+                "category": "Make It A Combo",
+                "name": "Fountain Drink Combo",
+                "price": "$2.19"
+            },
+            {
+                "category": "Salads",
+                "name": "Chicken Chopped Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Spicy Italian Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Tuna Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Turkey Breast Salad",
+                "price": "$7.79"
+            },
+            {
+                "category": "Salads",
+                "name": "Veggie Delite Salad",
+                "price": "$5.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Chips",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sides",
+                "name": "3 Cookies",
+                "price": "$2.09"
+            },
+            {
+                "category": "Sides",
+                "name": "Cookie",
+                "price": "$0.79"
+            },
+            {
+                "category": "Drinks",
+                "name": "Dasani Water",
+                "price": "$2.69"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Drink",
+                "price": "$2.69"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "2200", "3300" ],
+        "image": "subway.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Qdoba",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "Dinner",
+        "Monday": [ "1030", "1930" ],
+        "Tuesday": [ "1030", "1930" ],
+        "Wednesday": [ "1030", "1930" ],
+        "Thursday": [ "1030", "1930" ],
+        "Friday": [ "1030", "1800" ],
+        "Saturday": [ "1030", "1830" ],
+        "Sunday": [ "1030", "1830" ],
+        "Menu": [
+            {
+                "category": "Bowl",
+                "name": "Grilled Chicken Bowl",
+                "price": "$9.25"
+            },
+            {
+                "category": "3-Cheese Nachos",
+                "name": "Vegetarian 3-Cheese Nachos",
+                "price": "$8.75"
+            },
+            {
+                "category": "3-Cheese Nachos",
+                "name": "Grilled Chicken 3-Cheese Nachos",
+                "price": "$9.25"
+            },
+            {
+                "category": "Chips And Dips",
+                "name": "Chips and Salsa",
+                "price": "$3.25"
+            },
+            {
+                "category": "Chips And Dips",
+                "name": "Chips and Guacamole",
+                "price": "$4.25"
+            },
+            {
+                "category": "Chips And Dips",
+                "name": "Signature Chips and Queso",
+                "price": "$5.25"
+            },
+            {
+                "category": "Chips And Dips",
+                "name": "Chips and Queso Diablo",
+                "price": "$5.25"
+            },
+            {
+                "category": "Desserts",
+                "name": "Chocolate Chip Cookie",
+                "price": "$1.45"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.65"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Water",
+                "price": "$2.95"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1200", "4300" ],
+        "image": "qdoba.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Rising Roll",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": [ "Breakfast", "Dinner" ],
+        "Monday": [ "830", "1930" ],
+        "Tuesday": [ "830", "1930" ],
+        "Wednesday": [ "830", "1930" ],
+        "Thursday": [ "830", "1930" ],
+        "Friday": [ "830", "1700" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Sides",
+                "name": "Mac N Cheese Bread Bowl",
+                "price": "$6.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Mac N Cheese",
+                "price": "$4.69"
+            },
+            {
+                "category": "Sides",
+                "name": "Chips",
+                "price": "$1.29"
+            },
+            {
+                "category": "Sides",
+                "name": "Whole Fruit",
+                "price": "$0.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "21oz Fountain Drink",
+                "price": "$1.89"
+            },
+            {
+                "category": "Beverages",
+                "name": "Fairlife Milk",
+                "price": "$2.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Fairlife Core Power",
+                "price": "$3.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Minute Maid Juice",
+                "price": "$2.49"
+            },
+            {
+                "category": "Beverages",
+                "name": "Aha Sparkling Water",
+                "price": "$2.19"
+            },
+            {
+                "category": "Beverages",
+                "name": "Dasani Water",
+                "price": "$2.19"
+            },
+            {
+                "category": "Beverages",
+                "name": "Reign Energy Drinks",
+                "price": "$2.99"
+            },
+            {
+                "category": "Hot Coffee & Espresso Drinks",
+                "name": "Hot Drip Coffee",
+                "price": "$1.99"
+            },
+            {
+                "category": "Hot Coffee & Espresso Drinks",
+                "name": "Latte",
+                "price": "$3.39"
+            },
+            {
+                "category": "Hot Coffee & Espresso Drinks",
+                "name": "Mocha",
+                "price": "$3.89"
+            },
+            {
+                "category": "Hot Coffee & Espresso Drinks",
+                "name": "White Mocha",
+                "price": "$3.89"
+            },
+            {
+                "category": "Hot Coffee & Espresso Drinks",
+                "name": "Caramel Macchiato",
+                "price": "$4.59"
+            },
+            {
+                "category": "Hot Coffee & Espresso Drinks",
+                "name": "Americano",
+                "price": "$2.89"
+            },
+            {
+                "category": "Iced Coffee & Espresso Drinks",
+                "name": "Iced Americano",
+                "price": "$3.19"
+            },
+            {
+                "category": "Iced Coffee & Espresso Drinks",
+                "name": "Cold Brewed Iced Coffee",
+                "price": "$2.59"
+            },
+            {
+                "category": "Iced Coffee & Espresso Drinks",
+                "name": "Iced Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Coffee & Espresso Drinks",
+                "name": "Iced Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Iced Coffee & Espresso Drinks",
+                "name": "Iced White Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Bakery And Desserts",
+                "name": "Cinnamon Roll",
+                "price": "$3.29"
+            },
+            {
+                "category": "Bakery And Desserts",
+                "name": "Blondie",
+                "price": "$1.59"
+            },
+            {
+                "category": "Bakery And Desserts",
+                "name": "Brownie",
+                "price": "$1.59"
+            },
+            {
+                "category": "Bakery And Desserts",
+                "name": "Muffin",
+                "price": "$3.29"
+            },
+            {
+                "category": "Bakery And Desserts",
+                "name": "Cookie",
+                "price": "$1.59"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": true,
+        "coordinate": [ "1050", "4100" ],
+        "image": "rising.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Steak n Shake",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "Dinner",
+        "Monday": [ "1030", "1930" ],
+        "Tuesday": [ "1030", "1930" ],
+        "Wednesday": [ "1030", "1930" ],
+        "Thursday": [ "1030", "1930" ],
+        "Friday": [ "1030", "1700" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Burgers",
+                "name": "Single Steakburger N Cheese Combo",
+                "price": "$3.99"
+            },
+            {
+                "category": "Other Specialties",
+                "name": "Frisco Melt N Fries",
+                "price": "$5.49"
+            },
+            {
+                "category": "Other Specialties",
+                "name": "Classic Footlong Hotdog N Fries",
+                "price": "$3.99"
+            },
+            {
+                "category": "Other Specialties",
+                "name": "Grilled Cheese N Fries",
+                "price": "$3.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Thin N Crispy Fries",
+                "price": "$1.79"
+            },
+            {
+                "category": "Sides",
+                "name": "Cheese Fries",
+                "price": "$2.29"
+            },
+            {
+                "category": "Sides",
+                "name": "Chili Cheese Fries",
+                "price": "$2.79"
+            },
+            {
+                "category": "Sides",
+                "name": "Genuine Chili",
+                "price": "$2.29"
+            },
+            {
+                "category": "Sides",
+                "name": "Onion Rings",
+                "price": "$2.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Chocolate MilkShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Vanilla MilkShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Strawberry MilkShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Classic MilkShakes",
+                "name": "Orange FreezeShake",
+                "price": "$3.89"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Butterfinger-Spartan Shake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "CookieDough MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Oreo Cookies 'N Cream MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "M&M's MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Peanut Butter Cup MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "Nutella MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Specialty MilkShakes",
+                "name": "KitKat MilkShake",
+                "price": "$4.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Soft Drinks",
+                "price": "$1.99"
+            },
+            {
+                "category": "Drinks",
+                "name": "Aquafina Bottled Water",
+                "price": "$2.09"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1200", "4100" ],
+        "image": "steak.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Chick-fil-A",
+        "location": "Rocky Top",
+        "address": "1017 Francis Street",
+        "MS": "Dinner",
+        "Monday": [ "730", "2200" ],
+        "Tuesday": [ "730", "2200" ],
+        "Wednesday": [ "730", "2200" ],
+        "Thursday": [ "730", "2200" ],
+        "Friday": [ "730", "2200" ],
+        "Saturday": [ "1030", "2200" ],
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Nuggets",
+                "price": "$4.95"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Nuggets",
+                "price": "$5.79"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Chicken Sandwich",
+                "price": "$6.49"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Chicken Club Sandwich",
+                "price": "$8.35"
+            },
+            {
+                "category": "Entrees",
+                "name": "Spicy Chicken Sandwich",
+                "price": "$5.25"
+            },
+            {
+                "category": "Entrees",
+                "name": "Spicy Deluxe Sandwich",
+                "price": "$5.95"
+            },
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Chicken Sandwich",
+                "price": "$4.89"
+            },
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Deluxe Sandwich",
+                "price": "$5.59"
+            },
+            {
+                "category": "Salads",
+                "name": "Market Salad",
+                "price": "$9.69"
+            },
+            {
+                "category": "Salads",
+                "name": "Spicy Southwest Salad",
+                "price": "$9.69"
+            },
+            {
+                "category": "Sides",
+                "name": "Waffle Potato Fries",
+                "price": "$2.35"
+            },
+            {
+                "category": "Sides",
+                "name": "Mac & Cheese",
+                "price": "$3.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Side Salad",
+                "price": "$4.09"
+            },
+            {
+                "category": "Treats",
+                "name": "Chocolate Chunk Cookie",
+                "price": "$1.65"
+            },
+            {
+                "category": "Treats",
+                "name": "Chocolate Fudge Brownie",
+                "price": "$2.25"
+            },
+            {
+                "category": "Treats",
+                "name": "Chocolate MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Vanilla MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Strawberry MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Cookies & Cream MilkShake",
+                "price": "$4.49"
+            },
+            {
+                "category": "Treats",
+                "name": "Frosted Lemonade",
+                "price": "$4.39"
+            },
+            {
+                "category": "Treats",
+                "name": "Diet Frosted Lemonade",
+                "price": "$4.39"
+            },
+            {
+                "category": "Treats",
+                "name": "Large Icecream Cup",
+                "price": "$1.75"
+            },
+            {
+                "category": "Treats",
+                "name": "Large Icecream Cone",
+                "price": "$1.75"
+            },
+            {
+                "category": "Treats",
+                "name": "Frosted Coffee",
+                "price": "$4.39"
+            },
+            {
+                "category": "Beverages",
+                "name": "Chick-fil-A Lemonade",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Chick-fil-A Diet Lemonade",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Freshly-Brewed Sweet Iced Tea",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Freshly-Brewed Unsweetened Iced Tea",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Sunjoy",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Soft Drink",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Iced Coffee",
+                "price": "$3.29"
+            },
+            {
+                "category": "Beverages",
+                "name": "Regular Coffee",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Simply Orange Juice",
+                "price": "$2.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Bottled Dasani",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Milk",
+                "price": "$1.75"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "2500", "3300" ],
+        "image": "chick.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Chick-fil-A",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "Dinner",
+        "Monday": [ "730", "2000" ],
+        "Tuesday": [ "730", "2000" ],
+        "Wednesday": [ "730", "2000" ],
+        "Thursday": [ "730", "2000" ],
+        "Friday": [ "730", "1800" ],
+        "Saturday": [ "1030", "1930" ],
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Nuggets",
+                "price": "$4.95"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Nuggets",
+                "price": "$5.79"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Chicken Sandwich",
+                "price": "$6.49"
+            },
+            {
+                "category": "Entrees",
+                "name": "Grilled Chicken Club Sandwich",
+                "price": "$8.35"
+            },
+            {
+                "category": "Entrees",
+                "name": "Spicy Chicken Sandwich",
+                "price": "$5.25"
+            },
+            {
+                "category": "Entrees",
+                "name": "Spicy Deluxe Sandwich",
+                "price": "$5.95"
+            },
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Chicken Sandwich",
+                "price": "$4.89"
+            },
+            {
+                "category": "Entrees",
+                "name": "Chick-fil-A Deluxe Sandwich",
+                "price": "$5.59"
+            },
+            {
+                "category": "Meals",
+                "name": "Chick-fil-A Nuggets Meal",
+                "price": "$8.69"
+            },
+            {
+                "category": "Meals",
+                "name": "Grilled Nuggets Meal",
+                "price": "$9.59"
+            },
+            {
+                "category": "Meals",
+                "name": "Grilled Chicken Sandwich Meal",
+                "price": "$10.29"
+            },
+            {
+                "category": "Meals",
+                "name": "Grilled Chicken Club Sandwich Meal",
+                "price": "$12.15"
+            },
+            {
+                "category": "Meals",
+                "name": "Spicy Sandwich Meal",
+                "price": "$8.99"
+            },
+            {
+                "category": "Meals",
+                "name": "Spicy Deluxe Sandwich Meal",
+                "price": "$9.69"
+            },
+            {
+                "category": "Meals",
+                "name": "Chick-fil-A Chicken Sandwich Meal",
+                "price": "$8.65"
+            },
+            {
+                "category": "Meals",
+                "name": "Chick-fil-A Deluxe Chicken Sandwich Meal",
+                "price": "$9.35"
+            },
+            {
+                "category": "Sides",
+                "name": "Waffle Potato Fries",
+                "price": "$2.35"
+            },
+            {
+                "category": "Sides",
+                "name": "Mac & Cheese",
+                "price": "$3.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Fruit Cup",
+                "price": "$3.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Chick-fil-A Lemonade",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Chick-fil-A Diet Lemonade",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Freshly-Brewed Sweet Iced Tea",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Freshly-Brewed Unsweetened Iced Tea",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Sunjoy",
+                "price": "$2.59"
+            },
+            {
+                "category": "Beverages",
+                "name": "Soft Drink",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Iced Coffee",
+                "price": "$3.29"
+            },
+            {
+                "category": "Beverages",
+                "name": "Vanilla Iced Coffee",
+                "price": "$3.29"
+            },
+            {
+                "category": "Beverages",
+                "name": "Simply Orange Juice",
+                "price": "$2.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Bottled Dasani",
+                "price": "$2.25"
+            },
+            {
+                "category": "Beverages",
+                "name": "Milk",
+                "price": "$1.75"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1200", "3900" ],
+        "image": "chick.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Panda Express",
+        "location": "Cumberland",
+        "address": "1659 Cumberland Ave",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "2230" ],
+        "Tuesday": [ "1030", "2230" ],
+        "Wednesday": [ "1030", "2230" ],
+        "Thursday": [ "1030", "2230" ],
+        "Friday": [ "1030", "2230" ],
+        "Saturday": [ "1030", "2230" ],
+        "Sunday": [ "1030", "2230" ],
+        "Menu": [
+            {
+                "category": "Create Your Plate",
+                "name": "Bowl",
+                "price": "$7.30"
+            },
+            {
+                "category": "Create Your Plate",
+                "name": "Plate",
+                "price": "$8.80"
+            },
+            {
+                "category": "Create Your Plate",
+                "name": "Bigger Plate",
+                "price": "$10.30"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Orange Chicken",
+                "price": "$4.90"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Beijing Beef",
+                "price": "$4.90"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Honey Walnut Shrimp",
+                "price": "$6.55"
+            },
+            {
+                "category": "A La Carte Sides",
+                "name": "Chow Mein",
+                "price": "$3.75"
+            },
+            {
+                "category": "A La Carte Sides",
+                "name": "Fried Rice",
+                "price": "$3.75"
+            },
+            {
+                "category": "Appetizers",
+                "name": "Chicken Egg Roll",
+                "price": "$2.20"
+            },
+            {
+                "category": "Appetizers",
+                "name": "2 Veggie Spring Rolls",
+                "price": "$2.20"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$1.99"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1000", "3500" ],
+        "image": "panda.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "Panda Express",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "Dinner",
+        "Monday": [ "1030", "1930" ],
+        "Tuesday": [ "1030", "1930" ],
+        "Wednesday": [ "1030", "1930" ],
+        "Thursday": [ "1030", "1930" ],
+        "Friday": [ "1030", "1800" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Create Your Plate",
+                "name": "Bowl",
+                "price": "$7.30"
+            },
+            {
+                "category": "Create Your Plate",
+                "name": "Plate",
+                "price": "$8.80"
+            },
+            {
+                "category": "Create Your Plate",
+                "name": "Bigger Plate",
+                "price": "$10.30"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Orange Chicken",
+                "price": "$4.90"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Beijing Beef",
+                "price": "$4.90"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Honey Walnut Shrimp",
+                "price": "$6.55"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Sweet Fire Chicken",
+                "price": "$4.90"
+            },
+            {
+                "category": "A La Carte Entrees",
+                "name": "Teriyaki Chicken",
+                "price": "$4.90"
+            },
+            {
+                "category": "A La Carte Sides",
+                "name": "Chow Mein",
+                "price": "$3.75"
+            },
+            {
+                "category": "A La Carte Sides",
+                "name": "Fried Rice",
+                "price": "$3.75"
+            },
+            {
+                "category": "A La Carte Sides",
+                "name": "Mixed Vegetables",
+                "price": "$3.75"
+            },
+            {
+                "category": "A La Carte Sides",
+                "name": "White Steamed Rice",
+                "price": "$3.75"
+            },
+            {
+                "category": "Appetizers",
+                "name": "Chicken Egg Roll",
+                "price": "$2.20"
+            },
+            {
+                "category": "Appetizers",
+                "name": "2 Veggie Spring Rolls",
+                "price": "$2.20"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$1.99"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1200", "4500" ],
+        "image": "panda.png",
+        "cardinal": "S"
+    },
+    {
+        "name": "Twisted Taco",
+        "location": "Fred Brown Hall",
+        "address": "1817 Andy Holt Ave",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "2100" ],
+        "Tuesday": [ "1030", "2100" ],
+        "Wednesday": [ "1030", "2100" ],
+        "Thursday": [ "1030", "2100" ],
+        "Friday": [ "1030", "2000" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Appetizers & Sides",
+                "name": "Fresh Guacamole",
+                "price": "$5.89"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Chips & Salsa",
+                "price": "$2.29"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Black Beans",
+                "price": "$1.29"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Rice",
+                "price": "$1.29"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Sour Cream",
+                "price": "$0.99"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Guacamole",
+                "price": "$1.79"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Queso",
+                "price": "$1.79"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Bag of Chips",
+                "price": "$0.99"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Salsa Verde",
+                "price": "$0.99"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "Pico de Gallo",
+                "price": "$0.99"
+            },
+            {
+                "category": "Appetizers & Sides",
+                "name": "House Salad",
+                "price": "$0.99"
+            },
+            {
+                "category": "Taco Combo",
+                "name": "Taco Combo",
+                "price": "$8.69"
+            },
+            {
+                "category": "Tacos",
+                "name": "Carne Asada Taco",
+                "price": "$3.89"
+            },
+            {
+                "category": "Tacos",
+                "name": "Argentinian Taco",
+                "price": "$3.89"
+            },
+            {
+                "category": "Tacos",
+                "name": "The Hills Beef Taco",
+                "price": "$3.69"
+            },
+            {
+                "category": "Tacos",
+                "name": "Buffalo Bill Taco",
+                "price": "$3.59"
+            },
+            {
+                "category": "Tacos",
+                "name": "Sierra Madre Taco",
+                "price": "$3.59"
+            },
+            {
+                "category": "Tacos",
+                "name": "The Hills Chicken Taco",
+                "price": "$3.59"
+            },
+            {
+                "category": "Tacos",
+                "name": "Tombstone Chicken Taco",
+                "price": "$3.69"
+            },
+            {
+                "category": "Tacos",
+                "name": "Pulled Pork Taco",
+                "price": "$3.59"
+            },
+            {
+                "category": "Burrito",
+                "name": "The Big Jake Bowl",
+                "price": "$6.49"
+            },
+            {
+                "category": "Burrito",
+                "name": "The Big Jake Burrito",
+                "price": "$6.49"
+            },
+            {
+                "category": "Nachos",
+                "name": "Twisted Nachos",
+                "price": "$6.49"
+            },
+            {
+                "category": "Queso",
+                "name": "Traditional Queso",
+                "price": "$5.09"
+            },
+            {
+                "category": "Queso",
+                "name": "Twisted Queso",
+                "price": "$5.09"
+            },
+            {
+                "category": "Salad",
+                "name": "Fajita Salad",
+                "price": "$6.49"
+            },
+            {
+                "category": "Quesadilla",
+                "name": "El Pancho Quesadilla",
+                "price": "$6.49"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$1.99"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Water",
+                "price": "$2.09"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Coke",
+                "price": "$2.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Diet Coke",
+                "price": "$2.19"
+            },
+            {
+                "category": "Drinks",
+                "name": "Bottled Sprite",
+                "price": "$2.19"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": true,
+        "coordinate": [ "2200", "3500" ],
+        "image": "taco.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Raising Cane's",
+        "location": "Cumberland",
+        "address": "1659 Cumberland Ave",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "2230" ],
+        "Tuesday": [ "1030", "2230" ],
+        "Wednesday": [ "1030", "2230" ],
+        "Thursday": [ "1030", "2230" ],
+        "Friday": [ "1030", "2230" ],
+        "Saturday": [ "1200", "2230" ],
+        "Sunday": [ "1200", "2230" ],
+        "Menu": [
+            {
+                "category": "Combos",
+                "name": "The 3 Finger Combo",
+                "price": "$8.99"
+            },
+            {
+                "category": "Combos",
+                "name": "The Box Combo",
+                "price": "$10.59"
+            },
+            {
+                "category": "Combos",
+                "name": "The Caniac Combo",
+                "price": "$15.38"
+            },
+            {
+                "category": "Combos",
+                "name": "The Sandwich Combo",
+                "price": "$9.49"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fresh Brewed Tea",
+                "price": "$2.26"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fresh Squeezed Lemonade",
+                "price": "$2.49"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink",
+                "price": "$2.26"
+            },
+            {
+                "category": "A la carte",
+                "name": "Chicken Finger",
+                "price": "$1.81"
+            },
+            {
+                "category": "A la carte",
+                "name": "Honey Mustard",
+                "price": "$0.39"
+            },
+            {
+                "category": "A la carte",
+                "name": "Cane's Sauce",
+                "price": "$0.39"
+            },
+            {
+                "category": "A la carte",
+                "name": "Crinkle-Cut Fries",
+                "price": "$2.26"
+            },
+            {
+                "category": "A la carte",
+                "name": "Texas Toast",
+                "price": "$1.36"
+            },
+            {
+                "category": "A la carte",
+                "name": "Coleslaw",
+                "price": "$1.36"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1150", "3500" ],
+        "image": "cane.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "Dunkin' Donuts",
+        "location": "Volunteer Hall",
+        "address":"1525 White Avenue",
+        "MS": [ "Breakfast", "Lunch" ],
+        "Monday": [ "700", "1400" ],
+        "Tuesday": [ "700", "1400" ],
+        "Wednesday": [ "700", "1400" ],
+        "Thursday": [ "700", "1400" ],
+        "Friday": [ "700", "1400" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Hot Beverages",
+                "name": "Vanilla Chai",
+                "price": "$2.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Coffee",
+                "price": "$1.69"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Latte",
+                "price": "$2.79"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cappuccino",
+                "price": "$2.79"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Tea",
+                "price": "$1.69"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Chocolate",
+                "price": "$1.85"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Macchiato",
+                "price": "$3.09"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Americano",
+                "price": "$2.19"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Iced Latte",
+                "price": "$3.29"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Iced Coffee",
+                "price": "$2.29"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Iced Cappuccino",
+                "price": "$2.49"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Iced Macchiato",
+                "price": "$3.19"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Cold Brew",
+                "price": "$2.59"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Iced Tea",
+                "price": "$1.59"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Coolata",
+                "price": "$2.99"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Frozen Coffee Collata",
+                "price": "$3.69"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Bottled Water",
+                "price": "$2.19"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Juice",
+                "price": "$2.19"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Soda",
+                "price": "$2.19"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Milk",
+                "price": "$2.19"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "Vitamin Water",
+                "price": "$2.29"
+            },
+            {
+                "category": "Cold Beverages",
+                "name": "RTD Iced Coffee",
+                "price": "$2.99"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Bacon, Egg & Cheese Plain",
+                "price": "$3.29"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Sausage, Egg & Cheese Croissant",
+                "price": "$3.29"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Veggie Egg White English Muffin",
+                "price": "$3.29"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Flavored Bacon Wake Up Wrap",
+                "price": "$1.99"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Ham, Egg & Cheese English Muffin",
+                "price": "$3.29"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Egg & Cheese English Muffin",
+                "price": "$2.59"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Hash Browns",
+                "price": "$0.99"
+            },
+            {
+                "category": "Anytime Breakfast Sandwiches",
+                "name": "Egg & Cheese Wake Up Wrap",
+                "price": "$1.49"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Egg & Cheese English Muffin",
+                "price": "$2.59"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Veggie Egg White English Muffin",
+                "price": "$3.29"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Sausage, Egg & Cheese Croissant",
+                "price": "$3.29"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Ham, Egg & Cheese Croissant",
+                "price": "$3.29"
+            },
+            {
+                "category": "Bakery",
+                "name": "Croissant",
+                "price": "$2.49"
+            },
+            {
+                "category": "Bakery",
+                "name": "Donut",
+                "price": "$1.09"
+            },
+            {
+                "category": "Bakery",
+                "name": "Bagel",
+                "price": "$1.39"
+            },
+            {
+                "category": "Bakery",
+                "name": "Munchkins",
+                "price": "$1.39"
+            },
+            {
+                "category": "Bakery",
+                "name": "Coffee Roll",
+                "price": "$1.59"
+            },
+            {
+                "category": "Bakery",
+                "name": "Muffin",
+                "price": "$1.79"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "600", "4000" ],
+        "image": "dunkin.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "Bento Sushi",
+        "location": "Rocky Top",
+        "address": "1017 Francis Street",
+        "MS": "No",
+        "Monday": [ "1030", "1500" ],
+        "Tuesday": [ "1030", "1500" ],
+        "Wednesday": [ "1030", "1500" ],
+        "Thursday": [ "1030", "1500" ],
+        "Friday": [ "1030", "1500" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "2850", "4900" ],
+        "cardinal": "W",
+        "image": "bento.png"
+    },
+    {
+        "name": "Blenz Smoothie Bowls",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "No",
+        "Monday": [ "900", "1930" ],
+        "Tuesday": [ "900", "1930" ],
+        "Wednesday": [ "900", "1930" ],
+        "Thursday": [ "900", "1930" ],
+        "Friday": [ "900", "1700" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Bowls",
+                "name": "Acai Bowl",
+                "price": "$14.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Beach Bum Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Happy Hippie Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Oasis Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Ocean Bowl",
+                "price": "$13.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Pitaya Bowl",
+                "price": "$14.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Sunset Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Zen Zone Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Beach Bum Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Happy Hippie Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Oasis Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Sunset Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Zen Zone Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Chocolate Almond Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Ginger Tumeric Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Greenie Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Ocean Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Power Brew Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Blueberry PB&J",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Cinnamon Coffee",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Majic Berry",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Strawberry PB&J",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Super Green",
+                "price": "$10.00"
+            },
+            {
+                "category": "Bullet Coffee",
+                "name": "Almond Bullet Coffee",
+                "price": "$6.00"
+            },
+            {
+                "category": "Bullet Coffee",
+                "name": "Coconut Bullet Coffee",
+                "price": "$6.00"
+            },
+            {
+                "category": "Snacks",
+                "name": "Grandy Organics Dark Chocolate Almond Trail Mix",
+                "price": "$4.00"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1050", "4500" ],
+        "image": "blenz.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Einstein Bros Bagels",
+        "location": "Art & Architecture",
+        "address": "1715 Volunteer Blvd",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "1500" ],
+        "Tuesday": [ "730", "1500" ],
+        "Wednesday": [ "730", "1500" ],
+        "Thursday": [ "730", "1500" ],
+        "Friday": [ "730", "1500" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Hot Beverages",
+                "name": "Coffee",
+                "price": "$2.49"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Caramel Macchiato",
+                "price": "$4.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Chai Tea Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cappuccino",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cafe Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Chocolate",
+                "price": "$3.59"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Tea",
+                "price": "$1.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Classic Cold Brew",
+                "price": "$3.19"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Vanilla Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Caramel Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Chocolate Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Caramel Macchiato",
+                "price": "$4.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Chai Tea Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Tea",
+                "price": "$2.09"
+            },
+            {
+                "category": "Cold Brew Shake",
+                "name": "Caramel Cold Brew Shake",
+                "price": "$4.79"
+            },
+            {
+                "category": "Cold Brew Shake",
+                "name": "Chocolate Cold Brew Shake",
+                "price": "$5.49"
+            },
+            {
+                "category": "Frozen Drinks",
+                "name": "Strawberry Banana Smoothie",
+                "price": "$4.89"
+            },
+            {
+                "category": "Sweets",
+                "name": "Cinnamon Bliss Roll",
+                "price": "$3.69"
+            },
+            {
+                "category": "Sweets",
+                "name": "Strawberry & Cream Strudel",
+                "price": "$2.99"
+            },
+            {
+                "category": "Sweets",
+                "name": "Blueberry Muffin",
+                "price": "$2.39"
+            },
+            {
+                "category": "Sweets",
+                "name": "Chocolate Chip Muffin",
+                "price": "$2.19"
+            },
+            {
+                "category": "Sweets",
+                "name": "Apple Pie Pastry",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sweets",
+                "name": "Heavenly Chocolate Chip",
+                "price": "$1.89"
+            },
+            {
+                "category": "Sweets",
+                "name": "Cookie Poppers",
+                "price": "$3.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Fountain Drink",
+                "price": "$1.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Dasani",
+                "price": "$2.09"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "1450", "4100" ],
+        "image": "einstein.png",
+        "cardinal": "S"
+    },
+    {
+        "name": "Einstein Bros Bagels",
+        "location": "Haslam",
+        "address": "1000 Volunteer Blvd",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "700", "1730" ],
+        "Tuesday": [ "700", "1730" ],
+        "Wednesday": [ "700", "1730" ],
+        "Thursday": [ "700", "1730" ],
+        "Friday": [ "700", "1730" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Hot Beverages",
+                "name": "Coffee",
+                "price": "$2.49"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Caramel Macchiato",
+                "price": "$4.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Chai Tea Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cappuccino",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cafe Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Chocolate",
+                "price": "$3.59"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Tea",
+                "price": "$1.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Classic Cold Brew",
+                "price": "$3.19"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Vanilla Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Caramel Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Chocolate Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Caramel Macchiato",
+                "price": "$4.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Chai Tea Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Tea",
+                "price": "$2.09"
+            },
+            {
+                "category": "Cold Brew Shake",
+                "name": "Caramel Cold Brew Shake",
+                "price": "$4.79"
+            },
+            {
+                "category": "Cold Brew Shake",
+                "name": "Chocolate Cold Brew Shake",
+                "price": "$5.49"
+            },
+            {
+                "category": "Frozen Drinks",
+                "name": "Strawberry Banana Smoothie",
+                "price": "$4.89"
+            },
+            {
+                "category": "Sweets",
+                "name": "Cinnamon Bliss Roll",
+                "price": "$3.69"
+            },
+            {
+                "category": "Sweets",
+                "name": "Strawberry & Cream Strudel",
+                "price": "$2.99"
+            },
+            {
+                "category": "Sweets",
+                "name": "Blueberry Muffin",
+                "price": "$2.39"
+            },
+            {
+                "category": "Sweets",
+                "name": "Chocolate Chip Muffin",
+                "price": "$2.19"
+            },
+            {
+                "category": "Sweets",
+                "name": "Apple Pie Pastry",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sweets",
+                "name": "Heavenly Chocolate Chip",
+                "price": "$1.89"
+            },
+            {
+                "category": "Sweets",
+                "name": "Cookie Poppers",
+                "price": "$3.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Fountain Drink",
+                "price": "$1.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Dasani",
+                "price": "$2.09"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Bacon & Cheddar",
+                "price": "$5.89"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Turkey-Sausage & Cheddar",
+                "price": "$5.89"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Ham & Swiss",
+                "price": "$5.89"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Cheddar Cheese Omelet",
+                "price": "$5.49"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Avocado Toast",
+                "price": "$4.19"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "Farmhouse",
+                "price": "$6.19"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "Garden Avocado",
+                "price": "$5.79"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "Big Breakfast Burrito",
+                "price": "$6.49"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "All-Nighter",
+                "price": "$6.89"
+            },
+            {
+                "category": "Egg White Sandwiches",
+                "name": "Santa Fe",
+                "price": "$5.69"
+            },
+            {
+                "category": "Egg White Sandwiches",
+                "name": "Bacon, Avocado & Tomato",
+                "price": "$5.89"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Albuquerque Turkey",
+                "price": "$7.19"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Pepperoni Chicken",
+                "price": "$6.99"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Spicy Chicken",
+                "price": "$6.99"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Cheesy Veggie Melt",
+                "price": "$6.79"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "NovaLox",
+                "price": "$7.99"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "Turkey, Bacon & Avocado",
+                "price": "$7.19"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "Tasty Turkey",
+                "price": "$7.19"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "Avocado Veg Out",
+                "price": "$6.99"
+            },
+            {
+                "category": "Build Your Own",
+                "name": "Turkey & Cheddar",
+                "price": "$6.99"
+            },
+            {
+                "category": "Build Your Own",
+                "name": "Ham & Swiss",
+                "price": "$6.99"
+            },
+            {
+                "category": "Build Your Own",
+                "name": "Chicken Salad",
+                "price": "$6.99"
+            },
+            {
+                "category": "Pizza Bagels",
+                "name": "Cheese Pizza Bagel",
+                "price": "$5.99"
+            },
+            {
+                "category": "Pizza Bagels",
+                "name": "Pepperoni Pizza Bagel",
+                "price": "$6.29"
+            } 
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "einstein.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Einstein Bros Bagels",
+        "location": "Mossman",
+        "address": "1311 Cumberland Ave",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "1500" ],
+        "Tuesday": [ "730", "1500" ],
+        "Wednesday": [ "730", "1500" ],
+        "Thursday": [ "730", "1500" ],
+        "Friday": [ "730", "1500" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Hot Beverages",
+                "name": "Coffee",
+                "price": "$2.49"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Caramel Macchiato",
+                "price": "$4.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Chai Tea Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cappuccino",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Cafe Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Chocolate",
+                "price": "$3.59"
+            },
+            {
+                "category": "Hot Beverages",
+                "name": "Hot Tea",
+                "price": "$1.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Classic Cold Brew",
+                "price": "$3.19"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Vanilla Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Caramel Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Chocolate Cream Cold Brew",
+                "price": "$3.79"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Caramel Macchiato",
+                "price": "$4.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Chai Tea Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Mocha",
+                "price": "$4.49"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Latte",
+                "price": "$3.99"
+            },
+            {
+                "category": "Iced Beverages",
+                "name": "Iced Tea",
+                "price": "$2.09"
+            },
+            {
+                "category": "Cold Brew Shake",
+                "name": "Caramel Cold Brew Shake",
+                "price": "$4.79"
+            },
+            {
+                "category": "Cold Brew Shake",
+                "name": "Chocolate Cold Brew Shake",
+                "price": "$5.49"
+            },
+            {
+                "category": "Frozen Drinks",
+                "name": "Strawberry Banana Smoothie",
+                "price": "$4.89"
+            },
+            {
+                "category": "Sweets",
+                "name": "Cinnamon Bliss Roll",
+                "price": "$3.69"
+            },
+            {
+                "category": "Sweets",
+                "name": "Strawberry & Cream Strudel",
+                "price": "$2.99"
+            },
+            {
+                "category": "Sweets",
+                "name": "Blueberry Muffin",
+                "price": "$2.39"
+            },
+            {
+                "category": "Sweets",
+                "name": "Chocolate Chip Muffin",
+                "price": "$2.19"
+            },
+            {
+                "category": "Sweets",
+                "name": "Apple Pie Pastry",
+                "price": "$1.39"
+            },
+            {
+                "category": "Sweets",
+                "name": "Heavenly Chocolate Chip",
+                "price": "$1.89"
+            },
+            {
+                "category": "Sweets",
+                "name": "Cookie Poppers",
+                "price": "$3.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Fountain Drink",
+                "price": "$1.99"
+            },
+            {
+                "category": "Beverages",
+                "name": "Dasani",
+                "price": "$2.09"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Bacon & Cheddar",
+                "price": "$5.89"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Turkey-Sausage & Cheddar",
+                "price": "$5.89"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Ham & Swiss",
+                "price": "$5.89"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Cheddar Cheese Omelet",
+                "price": "$5.49"
+            },
+            {
+                "category": "Classic Egg Sandwiches",
+                "name": "Avocado Toast",
+                "price": "$4.19"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "Farmhouse",
+                "price": "$6.19"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "Garden Avocado",
+                "price": "$5.79"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "Big Breakfast Burrito",
+                "price": "$6.49"
+            },
+            {
+                "category": "Signature Egg Sandwiches",
+                "name": "All-Nighter",
+                "price": "$6.89"
+            },
+            {
+                "category": "Egg White Sandwiches",
+                "name": "Santa Fe",
+                "price": "$5.69"
+            },
+            {
+                "category": "Egg White Sandwiches",
+                "name": "Bacon, Avocado & Tomato",
+                "price": "$5.89"
+            },
+            {
+                "category": "Bulk Bagels",
+                "name": "Half Dozen Bagels",
+                "price": "$7.99"
+            },
+            {
+                "category": "Bulk Bagels",
+                "name": "Dozen Bagels with 2 Cream Cheese",
+                "price": "$16.49"
+            },
+            {
+                "category": "Bulk Bagels",
+                "name": "Dozen Bagels with 1 Cream Cheese",
+                "price": "$10.49"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Albuquerque Turkey",
+                "price": "$7.19"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Pepperoni Chicken",
+                "price": "$6.99"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Spicy Chicken",
+                "price": "$6.99"
+            },
+            {
+                "category": "Hot And Toasty",
+                "name": "Cheesy Veggie Melt",
+                "price": "$6.79"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "NovaLox",
+                "price": "$7.99"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "Turkey, Bacon & Avocado",
+                "price": "$7.19"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "Tasty Turkey",
+                "price": "$7.19"
+            },
+            {
+                "category": "Deli Lunch",
+                "name": "Avocado Veg Out",
+                "price": "$6.99"
+            },
+            {
+                "category": "Build Your Own",
+                "name": "Turkey & Cheddar",
+                "price": "$6.99"
+            },
+            {
+                "category": "Build Your Own",
+                "name": "Ham & Swiss",
+                "price": "$6.99"
+            },
+            {
+                "category": "Build Your Own",
+                "name": "Chicken Salad",
+                "price": "$6.99"
+            },
+            {
+                "category": "Pizza Bagels",
+                "name": "Cheese Pizza Bagel",
+                "price": "$5.99"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "einstein.png",
+        "cardinal": "E"
+    },
+    {
+        "name": "Starbucks",
+        "location": "Hodges Library",
+        "address": "1015 Volunteer Blvd",
+        "MS": "No",
+        "Monday": [ "730", "2300" ],
+        "Tuesday": [ "730", "2300" ],
+        "Wednesday": [ "730", "2300" ],
+        "Thursday": [ "730", "2300" ],
+        "Friday": [ "730", "1900" ],
+        "Saturday": [ "1030", "1900" ],
+        "Sunday": [ "1030", "2100" ],
+        "Menu": [
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Caffe Americano",
+                "price": "$3.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Caffe Latte",
+                "price": "$5.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Caffe Mocha",
+                "price": "$4.75"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Cappuccino",
+                "price": "$4.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "White Chocolate Mocha",
+                "price": "$5.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Flat White",
+                "price": "$4.75"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Vanilla Latte",
+                "price": "$5.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Coffee of The Day",
+                "price": "$2.45"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Caramel Apple Spice",
+                "price": "$4.75"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Chai Latte",
+                "price": "$4.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Hot Chocolate",
+                "price": "$3.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Steamed Apple Juice",
+                "price": "$2.45"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Steamed Milk",
+                "price": "$2.65"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Teavana Brewed Tea",
+                "price": "$3.05"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Green Tea Latte",
+                "price": "$4.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Caffe Misto",
+                "price": "$2.85"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caffe Mocha",
+                "price": "$4.25"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caffe Americano",
+                "price": "$2.65"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caffe Latte",
+                "price": "$3.35"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caramel Macchiato",
+                "price": "$4.45"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced White Chocolate Mocha",
+                "price": "$5.25"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Iced Coffee",
+                "price": "$2.65"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Starbucks Cold Brew",
+                "price": "$3.95"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Vanilla Sweet Cream Cold Brew",
+                "price": "$4.25"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Cold Brew With Cascara Cold Foam",
+                "price": "$4.25"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Teavana Shaken Iced Tea",
+                "price": "$2.95"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Teavana Shaken Iced Tea Lemonade",
+                "price": "$3.45"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Iced Chai Latte",
+                "price": "$3.75"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Matcha Lemonade",
+                "price": "$3.45"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Pink Drink",
+                "price": "$5.05"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Strawberry Acai",
+                "price": "$4.25"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Mango Dragonfruit",
+                "price": "$4.25"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Paradise Drink",
+                "price": "$4.75"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Pineapple Passionfruit Lemonade",
+                "price": "$4.75"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Sausage, Cheddar & Egg Breakfast Sandwich",
+                "price": "$4.45"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Ham & Cheese Croissant",
+                "price": "$6.45"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Sous Vide Egg Bites - Egg Whites & Roasted Red Pepper",
+                "price": "$4.45"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Spinach, Feta & Cage Free Egg White Wrap",
+                "price": "$4.95"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Bacon, Gouda & Egg Breakfast Sandwich",
+                "price": "$3.95"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Reduced-Fat Turkey Bacon Sandwich",
+                "price": "$3.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Birthday Cake Pop",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Chocolate Cake Pop",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Pumpkin Bread",
+                "price": "$2.75"
+            },
+            {
+                "category": "Pastries",
+                "name": "Plain Bagel",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Everthing Bagel",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Chocolate Chip Cookie",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Coffee Cake",
+                "price": "$2.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Old Fashioned Glazed Doughnut",
+                "price": "$2.75"
+            },
+            {
+                "category": "Pastries",
+                "name": "Blueberry Muffin",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Banana Nut Bread",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Butter Croissant",
+                "price": "$2.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Cheese Danish",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Cookies & Cream Cake Pop",
+                "price": "$2.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Pumpkin Scone",
+                "price": "$3.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Owl Cake Pop",
+                "price": "$3.25"
+            },
+            {
+                "category": "Pastries",
+                "name": "Pumpkin Cream Cheese Muffin",
+                "price": "$3.45"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "1600", "4000" ],
+        "image": "starbucks.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Starbucks",
+        "location": "Student Union",
+        "address": "1502 Cumberland Ave",
+        "MS": "No",
+        "Monday": [ "700", "1830" ],
+        "Tuesday": [ "700", "1830" ],
+        "Wednesday": [ "700", "1830" ],
+        "Thursday": [ "700", "1830" ],
+        "Friday": [ "700", "1730" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Caffe Americano",
+                "price": "$3.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Caffe Latte",
+                "price": "$5.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Caffe Mocha",
+                "price": "$4.75"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Cappuccino",
+                "price": "$4.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "White Chocolate Mocha",
+                "price": "$5.25"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Flat White",
+                "price": "$4.75"
+            },
+            {
+                "category": "Hot Espresso Beverages",
+                "name": "Vanilla Latte",
+                "price": "$5.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Coffee of The Day",
+                "price": "$2.45"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Caramel Apple Spice",
+                "price": "$4.75"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Chai Latte",
+                "price": "$4.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Hot Chocolate",
+                "price": "$3.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Steamed Apple Juice",
+                "price": "$2.45"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Steamed Milk",
+                "price": "$2.65"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Teavana Brewed Tea",
+                "price": "$3.05"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Green Tea Latte",
+                "price": "$4.25"
+            },
+            {
+                "category": "Coffee, Tea & More",
+                "name": "Caffe Misto",
+                "price": "$2.85"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caffe Mocha",
+                "price": "$4.25"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caffe Americano",
+                "price": "$2.65"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caffe Latte",
+                "price": "$3.35"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced Caramel Macchiato",
+                "price": "$4.45"
+            },
+            {
+                "category": "Iced Espresso Beverages",
+                "name": "Iced White Chocolate Mocha",
+                "price": "$5.25"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Iced Coffee",
+                "price": "$2.65"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Starbucks Cold Brew",
+                "price": "$3.95"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Vanilla Sweet Cream Cold Brew",
+                "price": "$4.25"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Cold Brew With Cascara Cold Foam",
+                "price": "$4.25"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Teavana Shaken Iced Tea",
+                "price": "$2.95"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Teavana Shaken Iced Tea Lemonade",
+                "price": "$3.45"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Iced Chai Latte",
+                "price": "$3.75"
+            },
+            {
+                "category": "Iced Coffee, Tea & More",
+                "name": "Matcha Lemonade",
+                "price": "$3.45"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Pink Drink",
+                "price": "$5.05"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Strawberry Acai",
+                "price": "$4.25"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Mango Dragonfruit",
+                "price": "$4.25"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Paradise Drink",
+                "price": "$4.75"
+            },
+            {
+                "category": "Starbucks Refresher",
+                "name": "Pineapple Passionfruit Lemonade",
+                "price": "$4.75"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Sausage, Cheddar & Egg Breakfast Sandwich",
+                "price": "$4.45"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Ham & Cheese Croissant",
+                "price": "$6.45"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Sous Vide Egg Bites - Egg Whites & Roasted Red Pepper",
+                "price": "$4.45"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Spinach, Feta & Cage Free Egg White Wrap",
+                "price": "$4.95"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Bacon, Gouda & Egg Breakfast Sandwich",
+                "price": "$3.95"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Reduced-Fat Turkey Bacon Sandwich",
+                "price": "$3.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Birthday Cake Pop",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Chocolate Cake Pop",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Pumpkin Bread",
+                "price": "$2.75"
+            },
+            {
+                "category": "Pastries",
+                "name": "Plain Bagel",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Everthing Bagel",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Chocolate Chip Cookie",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Coffee Cake",
+                "price": "$2.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Old Fashioned Glazed Doughnut",
+                "price": "$2.75"
+            },
+            {
+                "category": "Pastries",
+                "name": "Blueberry Muffin",
+                "price": "$1.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Banana Nut Bread",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Butter Croissant",
+                "price": "$2.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Cheese Danish",
+                "price": "$2.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Cookies & Cream Cake Pop",
+                "price": "$2.95"
+            },
+            {
+                "category": "Pastries",
+                "name": "Pumpkin Scone",
+                "price": "$3.45"
+            },
+            {
+                "category": "Pastries",
+                "name": "Owl Cake Pop",
+                "price": "$3.25"
+            },
+            {
+                "category": "Pastries",
+                "name": "Pumpkin Cream Cheese Muffin",
+                "price": "$3.45"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": true,
+        "Gluten-Free": false,
+        "coordinate": [ "1050", "4300" ],
+        "image": "starbucks.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "Blenz Smoothie Bowls",
+        "location": "TRECS",
+        "address": "2111 Volunteer Blvd",
+        "MS": "No",
+        "Monday": [ "1100", "1900" ],
+        "Tuesday": [ "1100", "1900" ],
+        "Wednesday": [ "1100", "1900" ],
+        "Thursday": [ "1100", "1900" ],
+        "Friday": [ "1100", "1700" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Bowls",
+                "name": "Acai Bowl",
+                "price": "$14.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Beach Bum Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Happy Hippie Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Oasis Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Ocean Bowl",
+                "price": "$13.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Pitaya Bowl",
+                "price": "$14.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Sunset Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Bowls",
+                "name": "Zen Zone Bowl",
+                "price": "$12.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Beach Bum Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Happy Hippie Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Oasis Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Sunset Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Smoothies",
+                "name": "Zen Zone Smoothie",
+                "price": "$8.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Chocolate Almond Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Ginger Tumeric Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Greenie Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Ocean Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Power Brew Smoothie",
+                "price": "$9.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Blueberry PB&J",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Cinnamon Coffee",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Majic Berry",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Strawberry PB&J",
+                "price": "$10.00"
+            },
+            {
+                "category": "Power Smoothies",
+                "name": "Super Green",
+                "price": "$10.00"
+            },
+            {
+                "category": "Water",
+                "name": "Smartwater 23oz",
+                "price": "$3.00"
+            },
+            {
+                "category": "Protein Drinks",
+                "name": "Core 26G Strawberry Banana",
+                "price": "$3.99"
+            },
+            {
+                "category": "Protein Drinks",
+                "name": "Core 42G Vanilla",
+                "price": "$4.75"
+            },
+            {
+                "category": "Protein Drinks",
+                "name": "Core 42G Chocolate",
+                "price": "$4.75"
+            },
+            {
+                "category": "Protein Drinks",
+                "name": "Core 42G Strawberry",
+                "price": "$4.75"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Powerade Zero Fruit Punch",
+                "price": "$2.19"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Powerade Zero Mixed Berry",
+                "price": "$2.19"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Bodyarmor Lite Coconut",
+                "price": "$3.09"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Bodyarmor Lite Peach Mango",
+                "price": "$3.09"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Bodyarmor Strawberry Grape",
+                "price": "$3.09"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Bodyarmor Strawberry Banana",
+                "price": "$3.09"
+            },
+            {
+                "category": "Sports Drinks",
+                "name": "Bodyarmor Orange Mango",
+                "price": "$3.09"
+            },
+            {
+                "category": "Energy Drinks",
+                "name": "Monster Energy",
+                "price": "$3.09"
+            },
+            {
+                "category": "Energy Drinks",
+                "name": "Monster Energy Ultra Gold",
+                "price": "$3.09"
+            },
+            {
+                "category": "Snacks",
+                "name": "Grandy Organics Dark Chocolate Almond Trail Mix",
+                "price": "$4.00"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "3200", "3000" ],
+        "image": "blenz.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Dippers",
+        "location": "Hess Hall",
+        "address": "1720 Melrose Pl",
+        "MS": [ "Lunch", "Dinner" ],
+        "Monday": [ "1030", "1600" ],
+        "Tuesday": [ "1030", "1600" ],
+        "Wednesday": [ "1030", "1600" ],
+        "Thursday": [ "1030", "1600" ],
+        "Friday": [ "1030", "1600" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Dippers Combo",
+                "name": "3 Chicken Dipper Combo",
+                "price": "$7.48"
+            },
+            {
+                "category": "Dippers Combo",
+                "name": "4 Chicken Dipper Combo",
+                "price": "$8.48"
+            },
+            {
+                "category": "Dippers Combo",
+                "name": "5 Chicken Dipper Combo",
+                "price": "$9.48"
+            },
+            {
+                "category": "Dippers",
+                "name": "3 Chicken Dippers",
+                "price": "$4.99"
+            },
+            {
+                "category": "Dippers",
+                "name": "4 Chicken Dippers",
+                "price": "$5.99"
+            },
+            {
+                "category": "Dippers",
+                "name": "5 Chicken Dippers",
+                "price": "$6.99"
+            },
+            {
+                "category": "Wings Combo",
+                "name": "6 Wings Combo",
+                "price": "$7.48"
+            },
+            {
+                "category": "Wings Combo",
+                "name": "12 Wings Combo",
+                "price": "$9.48"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Fried Chicken Sandwich Combo",
+                "price": "$7.99"
+            },
+            {
+                "category": "Sandwiches",
+                "name": "Fried Chicken Sandwich",
+                "price": "$4.69"
+            },
+            {
+                "category": "Sides",
+                "name": "French Fries",
+                "price": "$1.99"
+            },
+            {
+                "category": "Sides",
+                "name": "Extra Sauce",
+                "price": "$0.50"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink Small",
+                "price": "$1.89"
+            },
+            {
+                "category": "Drinks",
+                "name": "Fountain Drink Medium",
+                "price": "$2.19"
+            }
+        ],
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1900", "3700" ],
+        "image": "dipper.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "Which wich",
+        "location": "Thompson-Boling",
+        "address": "1600 Phillip Fulmer Way",
+        "MS": "Lunch",
+        "Monday": [ "1030", "1500" ],
+        "Tuesday": [ "1030", "1500" ],
+        "Wednesday": [ "1030", "1500" ],
+        "Thursday": [ "1030", "1500" ],
+        "Friday": [ "1030", "1400" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": [
+            {
+                "category": "Signature",
+                "name": "Cali Club Large 10.5in Wich",
+                "price": "$12.25"
+            },
+            {
+                "category": "Signature",
+                "name": "Cali Club Super 14in Wich",
+                "price": "$15.25"
+            },
+            {
+                "category": "Signature",
+                "name": "Cali Club Salad",
+                "price": "$10.25"
+            },
+            {
+                "category": "Signature",
+                "name": "Philly Cheesesteak Large 10.5in Wich",
+                "price": "$12.25"
+            },
+            {
+                "category": "Signature",
+                "name": "Philly Cheesesteak Super 14in Wich",
+                "price": "$15.25"
+            },
+            {
+                "category": "Signature",
+                "name": "Philly Cheesesteak Salad",
+                "price": "$10.25"
+            },
+            {
+                "category": "Signature",
+                "name": "Chicken Club Regular 7in Wich",
+                "price": "$7.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Chicken Club Large 10.5in Wich",
+                "price": "$11.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Chicken Club Super 14in Wich",
+                "price": "$14.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Chicken Club Salad",
+                "price": "$9.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Ultimate BLT Regular 7in Wich",
+                "price": "$7.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Ultimate BLT Large 10.5in Wich",
+                "price": "$11.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Ultimate BLT Super 14in Wich",
+                "price": "$14.75"
+            },
+            {
+                "category": "Signature",
+                "name": "Ultimate BLT Salad",
+                "price": "$9.75"
+            },
+            {
+                "category": "Pizza Which",
+                "name": "Hawaiian Pizza Wich",
+                "price": "$5.00"
+            },
+            {
+                "category": "Pizza Which",
+                "name": "Cheese Pizza Wich",
+                "price": "$5.00"
+            },
+            {
+                "category": "Pizza Which",
+                "name": "Veggie Supreme Pizza Wich",
+                "price": "$5.00"
+            },
+            {
+                "category": "Pizza Which",
+                "name": "BBQ Chicken Pizza Wich",
+                "price": "$5.00"
+            },
+            {
+                "category": "Pizza Which",
+                "name": "Pepperoni Pizza Wich",
+                "price": "$5.00"
+            }
+        ],
+        "Vegan & Vegetarian": true,
+        "Lactose-Free": false,
+        "Gluten-Free": true,
+        "coordinate": [ "1900", "3700" ],
+        "image": "which.png",
+        "cardinal": "S"
+    },
+    {
+        "name": "Side Bar Cafe",
+        "location": "Law School",
+        "address": "1505 Cumberland Ave",
+        "MS": "No",
+        "Monday": [ "730", "1500" ],
+        "Tuesday": [ "730", "1500" ],
+        "Wednesday": [ "730", "1500" ],
+        "Thursday": [ "730", "1500" ],
+        "Friday": [ "730", "1500" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "cafe.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Rocky Top",
+        "address": "1017 Francis Street",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2400" ],
+        "Tuesday": [ "730", "2400" ],
+        "Wednesday": [ "730", "2400" ],
+        "Thursday": [ "730", "2400" ],
+        "Friday": [ "730", "2400" ],
+        "Saturday": [ "1000", "2400" ],
+        "Sunday": [ "1000", "2400" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "2500", "3500" ],
+        "image": "pod.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Stokely",
+        "address": "1311 Lake Loudon Boulevard",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2400" ],
+        "Tuesday": [ "730", "2400" ],
+        "Wednesday": [ "730", "2400" ],
+        "Thursday": [ "730", "2400" ],
+        "Friday": [ "730", "2400" ],
+        "Saturday": [ "1100", "2400" ],
+        "Sunday": [ "1100", "2400" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "2500", "4200" ],
+        "image": "pod.png",
+        "cardinal": "S"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Hodges Library",
+        "address": "1015 Volunteer Blvd",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "700", "2400" ],
+        "Tuesday": [ "700", "2400" ],
+        "Wednesday": [ "700", "2400" ],
+        "Thursday": [ "700", "2400" ],
+        "Friday": [ "700", "1900" ],
+        "Saturday": [ "1000", "1900" ],
+        "Sunday": [ "1000", "2400" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1600", "3800" ],
+        "image": "pod.png",
+        "cardinal": "C"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Hess Hall",
+        "address": "1720 Melrose Pl",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2200" ],
+        "Tuesday": [ "730", "2200" ],
+        "Wednesday": [ "730", "2200" ],
+        "Thursday": [ "730", "2200" ],
+        "Friday": [ "730", "2200" ],
+        "Saturday": [ "1100", "2000" ],
+        "Sunday": [ "1100", "2000" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "pod.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Humanities",
+        "address": "1115 Volunteer Blvd",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "1700" ],
+        "Tuesday": [ "730", "1700" ],
+        "Wednesday": [ "730", "1700" ],
+        "Thursday": [ "730", "1700" ],
+        "Friday": [ "730", "1500" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "pod.png",
+        "cardinal": "S"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Laurel Hall",
+        "address": "1615 Laurel Avenue",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2300" ],
+        "Tuesday": [ "730", "2300" ],
+        "Wednesday": [ "730", "2300" ],
+        "Thursday": [ "730", "2300" ],
+        "Friday": [ "730", "2300" ],
+        "Saturday": [ "1200", "2300" ],
+        "Sunday": [ "1200", "2300" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "400", "3500" ],
+        "image": "pod.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Volunteer Hall",
+        "address": "1525 White Avenue",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2200" ],
+        "Tuesday": [ "730", "2200" ],
+        "Wednesday": [ "730", "2200" ],
+        "Thursday": [ "730", "2200" ],
+        "Friday": [ "730", "2200" ],
+        "Saturday": [ "1100", "2200" ],
+        "Sunday": [ "1100", "2200" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "600", "4200" ],
+        "image": "pod.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Clement Hall",
+        "address": "1629 Cumberland Ave",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2200" ],
+        "Tuesday": [ "730", "2200" ],
+        "Wednesday": [ "730", "2200" ],
+        "Thursday": [ "730", "2200" ],
+        "Friday": [ "730", "2200" ],
+        "Saturday": [ "1200", "2200" ],
+        "Sunday": [ "1200", "2200" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "pod.png",
+        "cardinal": "N"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Ag Campus",
+        "address": "2407 River Drive",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "1700" ],
+        "Tuesday": [ "730", "1700" ],
+        "Wednesday": [ "730", "1700" ],
+        "Thursday": [ "730", "1700" ],
+        "Friday": [ "730", "1500" ],
+        "Saturday": [ "830", "1500" ],
+        "Sunday": [ "830", "1500" ],
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "0", "0" ],
+        "image": "pod.png",
+        "cardinal": "W"
+    },
+    {
+        "name": "P.O.D",
+        "location": "Zeanah Engineering",
+        "address": "863 Neyland Drive",
+        "MS": [ "Breakfast", "Lunch", "Dinner" ],
+        "Monday": [ "730", "2400" ],
+        "Tuesday": [ "730", "2400" ],
+        "Wednesday": [ "730", "2400" ],
+        "Thursday": [ "730", "2400" ],
+        "Friday": [ "730", "1900" ],
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Menu": null,
+        "Vegan & Vegetarian": false,
+        "Lactose-Free": false,
+        "Gluten-Free": false,
+        "coordinate": [ "1500", "5300" ],
+        "image": "pod.png",
+        "cardinal": "E"
+    }
+]

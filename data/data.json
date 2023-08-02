@@ -1,0 +1,1989 @@
+{
+ "Fresh Food Company": [
+  "Stokely",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    700,
+    2100
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    2100
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    2100
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    2100
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    2000
+   ]
+  },
+  {
+   "Saturday": [
+    700,
+    2000
+   ]
+  },
+  {
+   "Sunday": [
+    1600,
+    2000
+   ]
+  }
+ ]
+}
+{
+ "Dining Hall": [
+  "Rocky Top",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    700,
+    2200
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    2200
+   ]
+  },
+  {
+   "Thursday": [
+    800,
+    2200
+   ]
+  },
+  {
+   "Friday": [
+    800,
+    2000
+   ]
+  },
+  {
+   "Saturday": [
+    800,
+    2000
+   ]
+  },
+  {
+   "Sunday": [
+    800,
+    2100
+   ]
+  }
+ ]
+}
+{
+ "Southern Kitchen": [
+  "Volunteer Hall",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    700,
+    2000
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    2000
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    2000
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    2000
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    1700
+   ]
+  },
+  {
+   "Saturday": [
+    700,
+    1700
+   ]
+  },
+  {
+   "Sunday": [
+    700,
+    1700
+   ]
+  }
+ ]
+}
+{
+ "Vol Bakery": [
+  "Rocky Top",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    730,
+    1330
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1330
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1330
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1330
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1330
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1330
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1330
+   ]
+  }
+ ]
+}
+{
+ "Arena Dining Cafe": [
+  "Thompson-Boling",
+  "Yes",
+  null,
+  "Lunch",
+  null,
+  {
+   "Monday": [
+    730,
+    1400
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1400
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1400
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1400
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1400
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1400
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1400
+   ]
+  }
+ ]
+}
+{
+ "Mabel's": [
+  "McCord Hall",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Saturday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Sunday": [
+    700,
+    1400
+   ]
+  }
+ ]
+}
+{
+ "Subway": [
+  "Fred Brown Hall",
+  "Yes",
+  null,
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    2200
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    2200
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    2200
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    2100
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    2100
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    2100
+   ]
+  }
+ ]
+}
+{
+ "Subway": [
+  "Student Union",
+  "Yes",
+  null,
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1800
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1800
+   ]
+  },
+  {
+   "Sunday": [
+    1200,
+    1930
+   ]
+  }
+ ]
+}
+{
+ "Qdoba": [
+  "Student Union",
+  "Yes",
+  null,
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1800
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1800
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1800
+   ]
+  }
+ ]
+}
+{
+ "Rising Roll": [
+  "Student Union",
+  "Yes",
+  "Breakfast",
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    830,
+    1930
+   ]
+  },
+  {
+   "Tuesday": [
+    830,
+    1930
+   ]
+  },
+  {
+   "Wednesday": [
+    830,
+    1930
+   ]
+  },
+  {
+   "Thursday": [
+    830,
+    1930
+   ]
+  },
+  {
+   "Friday": [
+    830,
+    1700
+   ]
+  },
+  {
+   "Saturday": [
+    830,
+    1700
+   ]
+  },
+  {
+   "Sunday": [
+    830,
+    1700
+   ]
+  }
+ ]
+}
+{
+ "Steak n Shake": [
+  "Student Union",
+  "Yes",
+  null,
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1700
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1700
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1700
+   ]
+  }
+ ]
+}
+{
+ "Chick-fil-A": [
+  "Rocky Top",
+  "Yes",
+  null,
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    2200
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    2200
+   ]
+  }
+ ]
+}
+{
+ "Chick-fil-A": [
+  "Student Union",
+  "Yes",
+  null,
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2000
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2000
+   ]
+  },
+  {
+   "Thursday": [
+    0,
+    0
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1800
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1930
+   ]
+  }
+ ]
+}
+{
+ "Panda Express": [
+  "Cumberland",
+  "Yes",
+  null,
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Sunday": [
+    1200,
+    2230
+   ]
+  }
+ ]
+}
+{
+ "Panda Express": [
+  "Student Union",
+  "Yes",
+  null,
+  null,
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1830
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1930
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1800
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1800
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1800
+   ]
+  }
+ ]
+}
+{
+ "Twisted Taco": [
+  "Brown Hall",
+  "Yes",
+  null,
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    2130
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    2130
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    2130
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    2130
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    20
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    20
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    20
+   ]
+  }
+ ]
+}
+{
+ "Raising Canes": [
+  "Cumberland",
+  "Yes",
+  null,
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    2230
+   ]
+  },
+  {
+   "Sunday": [
+    1200,
+    2230
+   ]
+  }
+ ]
+}
+{
+ "Dunkin Donuts": [
+  "Volunteer Hall",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  null,
+  {
+   "Monday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Saturday": [
+    700,
+    1400
+   ]
+  },
+  {
+   "Sunday": [
+    700,
+    1400
+   ]
+  }
+ ]
+}
+{
+ "Bento Sushi": [
+  "Thompson-Boling",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1500
+   ]
+  }
+ ]
+}
+{
+ "Blenz Smoothie Bowls": [
+  "Student Union",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    900,
+    1930
+   ]
+  },
+  {
+   "Tuesday": [
+    900,
+    1930
+   ]
+  },
+  {
+   "Wednesday": [
+    900,
+    1930
+   ]
+  },
+  {
+   "Thursday": [
+    900,
+    1930
+   ]
+  },
+  {
+   "Friday": [
+    900,
+    1700
+   ]
+  },
+  {
+   "Saturday": [
+    900,
+    1700
+   ]
+  },
+  {
+   "Sunday": [
+    900,
+    1700
+   ]
+  }
+ ]
+}
+{
+ "Einstein Bros Bagels": [
+  "Art & Architecture",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1500
+   ]
+  }
+ ]
+}
+{
+ "Einstein Bros Bagels": [
+  "Haslam",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Saturday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Sunday": [
+    700,
+    1730
+   ]
+  }
+ ]
+}
+{
+ "Einstein Bros Bagels": [
+  "Mossman",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1500
+   ]
+  }
+ ]
+}
+{
+ "Starbucks": [
+  "Hodges Library",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1900
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1900
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    2100
+   ]
+  }
+ ]
+}
+{
+ "Starbucks": [
+  "Student Union",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    700,
+    1830
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    1830
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    1830
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    1830
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Saturday": [
+    700,
+    1730
+   ]
+  },
+  {
+   "Sunday": [
+    700,
+    1730
+   ]
+  }
+ ]
+}
+{
+ "Blenz": [
+  "TRECS",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    1100,
+    1900
+   ]
+  },
+  {
+   "Tuesday": [
+    1100,
+    1900
+   ]
+  },
+  {
+   "Wednesday": [
+    1100,
+    1900
+   ]
+  },
+  {
+   "Thursday": [
+    1100,
+    1900
+   ]
+  },
+  {
+   "Friday": [
+    1100,
+    1700
+   ]
+  },
+  {
+   "Saturday": [
+    1100,
+    1700
+   ]
+  },
+  {
+   "Sunday": [
+    1100,
+    1700
+   ]
+  }
+ ]
+}
+{
+ "Dippers": [
+  "Hess Hall",
+  "Yes",
+  null,
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    1030,
+    1600
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1600
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1600
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1600
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1600
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1600
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1600
+   ]
+  }
+ ]
+}
+{
+ "Which Wich": [
+  "Thompson-Boling",
+  "Yes",
+  null,
+  "Lunch",
+  null,
+  {
+   "Monday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Tuesday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Wednesday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Thursday": [
+    1030,
+    1500
+   ]
+  },
+  {
+   "Friday": [
+    1030,
+    1400
+   ]
+  },
+  {
+   "Saturday": [
+    1030,
+    1400
+   ]
+  },
+  {
+   "Sunday": [
+    1030,
+    1400
+   ]
+  }
+ ]
+}
+{
+ "Side Bar Cafe": [
+  "Law School",
+  "No",
+  null,
+  null,
+  null,
+  {
+   "Monday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1500
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Rocky Top",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Saturday": [
+    1000,
+    2400
+   ]
+  },
+  {
+   "Sunday": [
+    1000,
+    2400
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Stokely",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Saturday": [
+    1100,
+    2200
+   ]
+  },
+  {
+   "Sunday": [
+    1100,
+    2400
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Hodges Libary",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    700,
+    2400
+   ]
+  },
+  {
+   "Tuesday": [
+    700,
+    2400
+   ]
+  },
+  {
+   "Wednesday": [
+    700,
+    2400
+   ]
+  },
+  {
+   "Thursday": [
+    700,
+    2400
+   ]
+  },
+  {
+   "Friday": [
+    700,
+    1900
+   ]
+  },
+  {
+   "Saturday": [
+    1000,
+    1900
+   ]
+  },
+  {
+   "Sunday": [
+    1000,
+    2400
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Hess Hall",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Saturday": [
+    1100,
+    2000
+   ]
+  },
+  {
+   "Sunday": [
+    1100,
+    2000
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Humanities",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1500
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Laurel Hall",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2300
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1300
+   ]
+  },
+  {
+   "Saturday": [
+    1200,
+    2300
+   ]
+  },
+  {
+   "Sunday": [
+    1200,
+    2300
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Volunteer Hall",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Saturday": [
+    1100,
+    2200
+   ]
+  },
+  {
+   "Sunday": [
+    1100,
+    2200
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Clement Hall",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    2200
+   ]
+  },
+  {
+   "Saturday": [
+    1200,
+    2200
+   ]
+  },
+  {
+   "Sunday": [
+    1200,
+    2200
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Ag Campus",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    1700
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1500
+   ]
+  },
+  {
+   "Saturday": [
+    830,
+    1500
+   ]
+  },
+  {
+   "Sunday": [
+    830,
+    1500
+   ]
+  }
+ ]
+}
+{
+ "P.O.D": [
+  "Zeanah Engineering",
+  "Yes",
+  "Breakfast",
+  "Lunch",
+  "Dinner",
+  {
+   "Monday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Tuesday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Wednesday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Thursday": [
+    730,
+    2400
+   ]
+  },
+  {
+   "Friday": [
+    730,
+    1900
+   ]
+  },
+  {
+   "Saturday": [
+    730,
+    1900
+   ]
+  },
+  {
+   "Sunday": [
+    730,
+    1900
+   ]
+  }
+ ]
+}
